@@ -1,15 +1,6 @@
-# BUSINESS PLAN — Firmamento Technologies Società Cooperativa
+# Business Plan — Firmamento Technologies Società Cooperativa
 
-**Revisione 2026-05** · documento di lavoro
-
-> **Sintesi delle revisioni rispetto alla versione 15/03/2026** *(sezione di servizio, eliminabile prima dell'invio)*
->
-> 1. **Rimosso** il progetto R&D *TIRO-Scientific* da tutto il documento.
-> 2. **Riformulato** il modello di business: Firmamento è il **contesto che trasforma giovani ricercatori in imprenditori** (appartenenza, fiducia, alleggerimento degli ostacoli tramite centralizzazione di burocrazia e relazioni esterne).
-> 3. **Ancorata la governance ai regolamenti interni** approvati il 07/11/2025 (Apparati Esecutivi, Elezioni, Ammissione/Uscita soci, Ristorni) e introdotto il **Fondo F.A.S.** come motore del venture building (criticità #1, #2, #3). **DOPE Hubs** ridotto a semplice citazione. L'evoluzione **coop + SRL** ha il meccanismo pronto (F.A.S.) ma lo **scorporo di Fibonacci resta una decisione aperta** (#4).
-> 4. **Aggiunto** come prodotto scalabile la suite **Fibonacci** (cartella clinica / EMR per la sanità), già live sul modulo Medicina Estetica (criticità #9).
-> 5. **Rielaborato** il conto economico triennale, MOL, break-even e stato patrimoniale con i ricavi ricorrenti SaaS e costi realistici; aggiunti **unit economics** (CAC/LTV/churn), **TAM/SAM/SOM**, **P&L per prodotto**, **roadmap** e **capitalizzazione del software (OIC 24)** (#5, #6, #7, #9).
-> 6. **Riclassificato** il contributo Coopfond (quota asset → risconti passivi; quota R&D → voce A5) per coerenza contabile (#8).
+*Società Cooperativa a mutualità prevalente · Startup Innovativa a vocazione sociale · Genova · Maggio 2026*
 
 ---
 
