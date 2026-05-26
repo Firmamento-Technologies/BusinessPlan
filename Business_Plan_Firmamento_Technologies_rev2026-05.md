@@ -1,4 +1,4 @@
-# Business Plan — Firmamento Technologies Società Cooperativa
+# Business Plan: Firmamento Technologies Società Cooperativa
 
 *Società Cooperativa a mutualità prevalente · Startup Innovativa a vocazione sociale · Genova · Maggio 2026*
 
@@ -10,21 +10,20 @@
 |---|---|
 | Nome impresa | FIRMAMENTO TECHNOLOGIES SOCIETÀ COOPERATIVA |
 | Indirizzo (sede legale e operativa) | Via Brigata Liguria 105R, 16121 Genova (GE) |
-| Forma giuridica | Società Cooperativa a mutualità prevalente — Startup Innovativa a vocazione sociale |
+| Forma giuridica | Società Cooperativa a mutualità prevalente, Startup Innovativa a vocazione sociale |
 | Data atto costitutivo | 26/09/2025 (Notaio dott. Federico Cattanei, rep. 35868/racc. 17421) |
 | Data iscrizione Registro Imprese | 07/10/2025 |
 | Data inizio attività | 03/11/2025 |
 | Data iscrizione Startup Innovativa | 04/03/2026 |
 | Soci cooperatori | 15 soci (9 fondatori + 6 ammessi) |
-| Capitale sociale | € 375,00 (15 azioni × € 25,00 nominali, capitale variabile) |
-| Codice ATECO prevalente | 74.14.09 — Altre attività di progettazione specializzata N.C.A. |
+| Capitale sociale | € 225,00 (capitale sociale variabile) |
+| Codice ATECO prevalente | 74.14.09, Altre attività di progettazione specializzata N.C.A. |
 | P.IVA / C.F. | 03038500991 |
-| REA | GE — 528629 |
+| REA | GE-528629 |
 | Albo Cooperative | C144702 (iscrizione 07/10/2025) |
 | PEC | firmamentotechnologies@pec.it |
-| Banca | Banco BPM S.p.A., filiale Genova Via Galata 2480 — Conto Cooperative SMALL |
+| Banca | Banco BPM S.p.A., filiale Genova Via Galata 2480, Conto Cooperative SMALL |
 | Durata società | Fino al 31/12/2100 |
-| Numero di addetti | 0 dipendenti (15 soci lavoratori cooperativi) |
 
 ### Dimensione degli investimenti
 
@@ -35,6 +34,8 @@
 | Arredi (ufficio e laboratorio) | 3.000 |
 | Beni immateriali (software, IP, dominio e marchio Fibonacci, certificazioni) | 5.000 |
 | **TOTALE INVESTIMENTI** | **22.000** |
+
+*Gli investimenti indicati sono previsionali, riferiti alla fase di sviluppo, e non ancora sostenuti alla data del documento.*
 
 ### Livello di fatturato previsto (ricavi da mercato)
 
@@ -50,7 +51,7 @@
 | Ruolo | Presidente e Legale Rappresentante |
 | Codice fiscale | DDMLCU99T25D969S |
 | Recapito | Via Brigata Liguria 105R, 16121 Genova (GE) |
-| E-mail | firmamentotechnologies@pec.it |
+| E-mail | luca.di.domenico@pec.it |
 | Telefono | 3493504487 |
 
 ---
@@ -61,7 +62,7 @@
 
 #### Il modello di business: costruire il contesto che trasforma i ricercatori in imprenditori
 
-Firmamento Technologies Società Cooperativa è una startup innovativa costituita il 26/09/2025 a Genova. La forma cooperativa non è una scelta ideologica: è l'architettura giuridica che permette di costruire ciò che realmente manca al sistema italiano dell'innovazione — **non un altro incubatore, ma il contesto in cui un giovane ricercatore STEM cambia mentalità e diventa imprenditore.**
+Firmamento Technologies Società Cooperativa è una startup innovativa costituita il 26/09/2025 a Genova. La forma cooperativa non è una scelta ideologica: è l'architettura giuridica che permette di costruire ciò che realmente manca al sistema italiano dell'innovazione, **non un altro incubatore, ma il contesto in cui un giovane ricercatore STEM cambia mentalità e diventa imprenditore.**
 
 In Italia il talento tecnico-scientifico esiste in abbondanza, ma resta intrappolato tra ricerca accademica e impiego dipendente. Il salto verso l'impresa non avviene quasi mai, e quasi mai per mancanza di competenze: avviene per mancanza di **contesto**. Il ricercatore è solo davanti alla burocrazia, alla partita IVA, ai contratti, al fisco, alla ricerca clienti, alle relazioni istituzionali. Il rischio è individuale, la curva di apprendimento è ripida, la fiducia nelle proprie capacità imprenditoriali è bassa. Così il talento sceglie la via sicura e l'idea muore.
 
@@ -73,9 +74,11 @@ Firmamento risolve esattamente questo problema. La cooperativa è la **struttura
 
 **Il "prodotto" di Firmamento, quindi, è duplice e ricorsivo: produce imprenditori e produce le imprese che essi creano.** Le persone restano al centro, ma con un ruolo preciso e leggibile: la cooperativa è la piattaforma di competenze e il motore operativo; i prodotti e le venture (Fibonacci, i servizi di ingegneria, il progetto aerospaziale H.A.L.E.) sono ciò che le persone, abilitate da quel contesto, riescono a costruire.
 
-Il modello economico è semplice e leggibile: **le commesse e gli abbonamenti generano ricavi e competenze; una quota degli utili alimenta un fondo dedicato — il *Fondo F.A.S. (Fondo per l'Avvio delle Startup)* — che può finanziare la nascita di nuove società (NewCo) promosse dai soci.** Ogni commessa serve due scopi: cassa nel breve e costruzione di asset proprietari (competenze, IP, relazioni) nel medio-lungo periodo. Il Fondo F.A.S. è già istituito e disciplinato da apposito regolamento interno (vedi *Governance, regolamenti interni e Fondo F.A.S.*).
+Di questo stesso ecosistema fa parte **DOPE Hubs A.P.S.**, associazione che riunisce oltre **170 tra studenti e giovani ricercatori STEM** che ne condividono la missione e ai quali offre una prima formazione alla cultura imprenditoriale: è il bacino naturale da cui emergono i talenti e i futuri soci-imprenditori della cooperativa.
 
-Alla data di redazione Firmamento opera su tre verticali di servizio attivi — **Stampa 3D**, **Automatizzazione AI e Gestione Dati**, **Simulazione CFD con OpenFOAM** — un prodotto software scalabile già sul mercato — **Fibonacci** (suite di cartella clinica per la sanità) — e un progetto di Ricerca e Sviluppo, **H.A.L.E.** (piattaforma stratosferica, finanziata con € 50.000 a fondo perduto da Coopfond).
+Il modello economico è semplice e leggibile: **le commesse e gli abbonamenti generano ricavi e competenze; una quota degli utili alimenta un fondo dedicato, il *Fondo F.A.S. (Fondo per l'Avvio delle Startup)*, che può finanziare la nascita di nuove società (NewCo) promosse dai soci.** Ogni commessa serve due scopi: cassa nel breve e costruzione di asset proprietari (competenze, IP, relazioni) nel medio-lungo periodo. Il Fondo F.A.S. è già istituito e disciplinato da apposito regolamento interno (vedi *Governance, regolamenti interni e Fondo F.A.S.*).
+
+Alla data di redazione Firmamento opera su tre verticali di servizio attivi (**Stampa 3D**, **Automatizzazione AI e Gestione Dati**, **Simulazione CFD con OpenFOAM**), un prodotto software scalabile già sul mercato (**Fibonacci**, suite di cartella clinica per la sanità) e un progetto di Ricerca e Sviluppo, **H.A.L.E.** (piattaforma stratosferica, finanziata con € 50.000 a fondo perduto da Coopfond).
 
 La cooperativa è iscritta come Startup Innovativa ai sensi dell'art. 25 D.L. 179/2012. Ad oggi non risulta alcuna altra cooperativa deep-tech in Italia (Fonte: ricerca su registri MIMIT e Legacoop nazionale, 2025). Firmamento occupa una categoria di fatto vuota: una cooperativa che trasforma ricercatori in imprenditori e fa nascere prodotti deep-tech. Questo posizionamento è deliberato e rappresenta una barriera all'imitazione.
 
@@ -101,19 +104,19 @@ La cooperativa conta 15 soci cooperatori:
 | 14 | Luca Bricarello | Socio cooperatore | Ingegneria Robotica |
 | 15 | Vittoria De Marco | Socia cooperatrice | Ingegneria Meccanica |
 
-Cooperativa a mutualità prevalente, **voto per testa** (1 socio = 1 voto) indipendentemente dal capitale conferito. Ogni socio sottoscrive almeno 1 azione da € 25,00 nominali (15 azioni × € 25,00 = € 375 di capitale sociale). Nessun Collegio Sindacale (non ricorrono i presupposti art. 2477 c.c.). CdA di 5 membri con mandato fino al bilancio 31/12/2027.
+Cooperativa a mutualità prevalente, **voto per testa** (1 socio = 1 voto) indipendentemente dal capitale conferito. Capitale sociale € 225,00 (capitale variabile). Nessun Collegio Sindacale (non ricorrono i presupposti art. 2477 c.c.). CdA di 5 membri con mandato fino al bilancio 31/12/2027.
 
 #### Governance, regolamenti interni e Fondo F.A.S.
 
 L'Assemblea dei soci ha approvato il **07/11/2025** un corpo organico di **regolamenti interni** che formalizza la governance e scioglie le ambiguità segnalate in sede di revisione (Ristorni; Organizzativo Generale; Elezioni Organi Sociali; Criteri di Ammissione Soci; Apparati Esecutivi; Gestionale del Fondo F.A.S.). Il modello distingue tre livelli:
 
-- **Governance strategica** — Assemblea (voto per testa) e CdA (5 membri): approvano budget, avvio/chiusura di prodotti e progetti, destinazione degli utili e del Fondo F.A.S., ammissione e uscita dei soci. Le elezioni seguono il *Regolamento Elezioni Organi Sociali*, con **rinnovo scaglionato** del CdA (~1/3 l'anno), Comitato Nomine consultivo, cooptazione (art. 2386 c.c.) e piani di successione: continuità garantita, nessun ricambio totale e brusco.
-- **Apparati esecutivi** — il *Regolamento degli Apparati Esecutivi (RAE)* consente al CdA di nominare figure apicali (DG/CEO, CFO, COO, CTO, General Counsel, responsabili di Business Unit/Progetto), **anche non soci ed esterne**, operanti tramite deleghe e procure (artt. 2203 e 2381 c.c.) revocabili *ad nutum*. È la separazione formale tra **chi indirizza (CdA) e chi gestisce (management)** richiesta dalle note, nonché la via per inserire le figure trasversali oggi mancanti (vedi C.1).
-- **Team di prodotto/progetto** — i gruppi che eseguono commesse e sviluppano i prodotti (team Fibonacci, Engineering/CFD, H.A.L.E.), ciascuno con un referente responsabile.
+- **Governance strategica**: Assemblea (voto per testa) e CdA (5 membri): approvano budget, avvio/chiusura di prodotti e progetti, destinazione degli utili e del Fondo F.A.S., ammissione e uscita dei soci. Le elezioni seguono il *Regolamento Elezioni Organi Sociali*, con **rinnovo scaglionato** del CdA (~1/3 l'anno), Comitato Nomine consultivo, cooptazione (art. 2386 c.c.) e piani di successione: continuità garantita, nessun ricambio totale e brusco.
+- **Apparati esecutivi**: il *Regolamento degli Apparati Esecutivi (RAE)* consente al CdA di nominare figure apicali (DG/CEO, CFO, COO, CTO, General Counsel, responsabili di Business Unit/Progetto), **anche non soci ed esterne**, operanti tramite deleghe e procure (artt. 2203 e 2381 c.c.) revocabili *ad nutum*. È la separazione formale tra **chi indirizza (CdA) e chi gestisce (management)** richiesta dalle note, nonché la via per inserire le figure trasversali oggi mancanti (vedi C.1).
+- **Team di prodotto/progetto**: i gruppi che eseguono commesse e sviluppano i prodotti (team Fibonacci, Engineering/CFD, H.A.L.E.), ciascuno con un referente responsabile.
 
 **Ingressi e uscite dei soci** sono disciplinati dal *Regolamento Organizzativo Generale* e dal *Regolamento Criteri di Ammissione*: ammissione su domanda al CdA (delibera entro 60 gg, *mission-fit*, **impegno minimo di partecipazione lavorativa** per evitare soci solo nominali); **recesso** ex art. 2532 c.c.; **esclusione** con contestazione scritta e contraddittorio (cause tipizzate: inattività mutualistica, concorrenza non autorizzata, sviamento di opportunità, violazione di riservatezza/IP); **rimborso della quota** sul bilancio dell'esercizio di cessazione, entro 180 gg dall'approvazione (art. 2535 c.c.). Riserve indivisibili e ristorni già capitalizzati restano alla cooperativa.
 
-**Categorie di soci e capitale.** Oltre a soci lavoratori e fruitori, il regolamento prevede i **soci finanziatori/sovventori** (art. 2526 c.c., art. 4 L. 59/1992): è la via ordinata per **aprire il capitale a investitori** (business angel, partner) senza snaturare la cooperativa (voti dei finanziatori entro 1/3). Costituisce la leva prevista per rafforzare il capitale sociale, ancora contenuto (€ 375).
+**Categorie di soci e capitale.** Oltre a soci lavoratori e fruitori, il regolamento prevede i **soci finanziatori/sovventori** (art. 2526 c.c., art. 4 L. 59/1992): è la via ordinata per **aprire il capitale a investitori** (business angel, partner) senza snaturare la cooperativa (voti dei finanziatori entro 1/3). Costituisce la leva prevista per rafforzare il capitale sociale, ancora contenuto (€ 225).
 
 **Remunerazione mutualistica.** Il *Regolamento Ristorni* (art. 2545-sexies c.c.) distribuisce ai soci il vantaggio mutualistico in proporzione a quantità e qualità del lavoro/scambio, entro il tetto del 30% dei trattamenti retributivi (L. 142/2001), con possibilità di capitalizzazione.
 
@@ -121,12 +124,12 @@ L'Assemblea dei soci ha approvato il **07/11/2025** un corpo organico di **regol
 
 Il *Regolamento Gestionale del Fondo F.A.S. (Fondo per l'Avvio delle Startup)*, approvato dal CdA il 07/11/2025, è il **motore strutturato del venture building** e risponde direttamente alle domande su regia, criteri di selezione, investimenti ed equity:
 
-- **Cos'è** — riserva patrimoniale indivisibile e **rotativa** (i proventi rientrano nel Fondo), intestata alla cooperativa, destinata a finanziare la **costituzione e l'avvio di NewCo (SRL/SpA) promosse da soci lavoratori**.
-- **Alimentazione** — quota dell'utile annuo (indicativamente il **10%**) dopo gli accantonamenti di legge (30% riserva legale + 3% fondi mutualistici), più riserve, ristorni non erogati e contributi/grant. **Mai** dal prestito sociale.
-- **Selezione e decisione** — istruttoria e due diligence accentrate negli apparati esecutivi (DG/CEO, CFO, CTO/COO): pre-selezione, due diligence (mercato, sostenibilità, rischi, IP, impatto occupazionale per i soci, coerenza con la mission) e relazione tecnica con importo e quota proposti. Soglie operative: importi piccoli decisi da DG+CFO; importi maggiori elevati al CdA. L'Assemblea **non** entra nelle singole operazioni (delibera solo la quota annua a Fondo e riceve informativa in Nota Integrativa).
-- **Tutele nelle NewCo** — forchette partecipative (quota min/max della coop), **golden share** e **mission lock**, **vesting** per i soci promotori (cliff 6–12 mesi, *bad/good leaver*), lock-up, clawback e anti-dilution; licenze IP coop↔NewCo con IP-lock; *service agreement* per i servizi condivisi a condizioni *arm's length*.
+- **Cos'è**: riserva patrimoniale indivisibile e **rotativa** (i proventi rientrano nel Fondo), intestata alla cooperativa, destinata a finanziare la **costituzione e l'avvio di NewCo (SRL/SpA) promosse da soci lavoratori**.
+- **Alimentazione**: quota dell'utile annuo (indicativamente il **10%**) dopo gli accantonamenti di legge (30% riserva legale + 3% fondi mutualistici), più riserve, ristorni non erogati e contributi/grant. **Mai** dal prestito sociale.
+- **Selezione e decisione**: istruttoria e due diligence accentrate negli apparati esecutivi (DG/CEO, CFO, CTO/COO): pre-selezione, due diligence (mercato, sostenibilità, rischi, IP, impatto occupazionale per i soci, coerenza con la mission) e relazione tecnica con importo e quota proposti. Soglie operative: importi piccoli decisi da DG+CFO; importi maggiori elevati al CdA. L'Assemblea **non** entra nelle singole operazioni (delibera solo la quota annua a Fondo e riceve informativa in Nota Integrativa).
+- **Tutele nelle NewCo**: forchette partecipative (quota min/max della coop), **golden share** e **mission lock**, **vesting** per i soci promotori (cliff 6–12 mesi, *bad/good leaver*), lock-up, clawback e anti-dilution; licenze IP coop↔NewCo con IP-lock; *service agreement* per i servizi condivisi a condizioni *arm's length*.
 
-In altre parole, **la "rete di progetti" diventa una struttura imprenditoriale che seleziona, decide, investe e detiene equity** — esattamente ciò che mancava. Il Fondo F.A.S. è anche il **meccanismo già pronto per l'evoluzione "cooperativa + SRL"**: a maturità, un prodotto può essere scorporato in una NewCo dedicata partecipata dalla cooperativa.
+In altre parole, **la "rete di progetti" diventa una struttura imprenditoriale che seleziona, decide, investe e detiene equity**: esattamente ciò che mancava. Il Fondo F.A.S. è anche il **meccanismo già pronto per l'evoluzione "cooperativa + SRL"**: a maturità, un prodotto può essere scorporato in una NewCo dedicata partecipata dalla cooperativa.
 
 > **Scorporo di Fibonacci in SRL: decisione ancora aperta.** L'architettura per farlo esiste già (Fondo F.A.S.), ma **non è ancora stato deciso** se e quando Fibonacci verrà trasferita in una società dedicata: la scelta sarà valutata in funzione di traction, fabbisogno di capitale e attrattività per gli investitori. Allo stato, Fibonacci resta un prodotto interno alla cooperativa.
 
@@ -134,25 +137,25 @@ In altre parole, **la "rete di progetti" diventa una struttura imprenditoriale c
 
 I soci condividono l'obiettivo di **colmare il divario strutturale tra ricerca accademica e applicazione industriale** nel contesto italiano, con attenzione al territorio ligure:
 
-1. **Impatto tecnologico reale** — tradurre competenze STEM di alto livello in servizi e prodotti concreti. L'Italia conta 11.090 startup innovative a gennaio 2026, in calo del 4,2% sull'anno precedente (Fonte: MIMIT, gennaio 2026): serve un modello che funzioni, non un altro esperimento.
-2. **Cooperativa come leva competitiva** — attrae talenti che cercano partecipazione, abbatte il turnover, distribuisce il rischio imprenditoriale e allinea interessi individuali e obiettivi aziendali.
-3. **Autosufficienza tecnologica** — costruire capacità proprietarie in settori strategici (AI, healthcare, aerospace, simulazione) anziché dipendere da fornitori esteri.
-4. **Valorizzazione del territorio** — Genova e la Liguria dispongono di un ecosistema di ricerca di primo livello (Università di Genova, IIT, CNR) ma faticano a trattenere talenti e trasferire tecnologia. Firmamento è il ponte operativo tra questi mondi.
+1. **Impatto tecnologico reale**: tradurre competenze STEM di alto livello in servizi e prodotti concreti. L'Italia conta 11.090 startup innovative a gennaio 2026, in calo del 4,2% sull'anno precedente (Fonte: MIMIT, gennaio 2026): serve un modello che funzioni, non un altro esperimento.
+2. **Cooperativa come leva competitiva**: attrae talenti che cercano partecipazione, abbatte il turnover, distribuisce il rischio imprenditoriale e allinea interessi individuali e obiettivi aziendali.
+3. **Autosufficienza tecnologica**: costruire capacità proprietarie in settori strategici (AI, healthcare, aerospace, simulazione) anziché dipendere da fornitori esteri.
+4. **Valorizzazione del territorio**: Genova e la Liguria dispongono di un ecosistema di ricerca di primo livello (Università di Genova, IIT, CNR) ma faticano a trattenere talenti e trasferire tecnologia. Firmamento è il ponte operativo tra questi mondi.
 
 #### Know-how dei soci
 
-- **Intelligenza Artificiale e Robotica** — architetture RAG, sviluppo agenti AI, sistemi anti-allucinazione, NLP avanzato, ingegneria robotica (E. Giordano, C. Sanguineti, L. Bricarello)
-- **Ingegneria Aerospaziale e CFD** — piattaforme UAV, aerodinamica, propulsione, simulazioni CFD OpenFOAM, CAD (S. Raggi, F. Fadelli)
-- **Ingegneria Meccanica, Manufacturing e Additive Manufacturing** — progettazione meccanica e tecnologie FDM con materiali tecnici (PLA, PETG, ABS, ASA, PA-CF, PA-GF) (G. Pandolfo, E. Maestri, V. De Marco)
-- **Ingegneria Elettronica e Hardware** — progettazione elettronica e sistemi embedded (L. Thea)
-- **Earth Observation e Analisi Dati** — telerilevamento, elaborazione dati geospaziali (C. Sanguineti)
-- **Cyber Sicurezza e Web** — sicurezza informatica, sviluppo web full-stack (V. Passalacqua, D. Hermes)
-- **Informatica e Analisi Dati** — sviluppo software, data engineering (G. S. Ferrero)
-- **Amministrazione, Economia e Business Development** — gestione aziendale, economia, sviluppo commerciale, relazioni istituzionali (L. Di Domenico, C. D'Alessandro, F. Fadelli)
+- **Intelligenza Artificiale e Robotica**: architetture RAG, sviluppo agenti AI, sistemi anti-allucinazione, NLP avanzato, ingegneria robotica (E. Giordano, C. Sanguineti, L. Bricarello)
+- **Ingegneria Aerospaziale e CFD**: piattaforme UAV, aerodinamica, propulsione, simulazioni CFD OpenFOAM, CAD (S. Raggi, F. Fadelli)
+- **Ingegneria Meccanica, Manufacturing e Additive Manufacturing**: progettazione meccanica e tecnologie FDM con materiali tecnici (PLA, PETG, ABS, ASA, PA-CF, PA-GF) (G. Pandolfo, E. Maestri, V. De Marco)
+- **Ingegneria Elettronica e Hardware**: progettazione elettronica e sistemi embedded (L. Thea)
+- **Earth Observation e Analisi Dati**: telerilevamento, elaborazione dati geospaziali (C. Sanguineti)
+- **Cyber Sicurezza e Web**: sicurezza informatica, sviluppo web full-stack (V. Passalacqua, D. Hermes)
+- **Informatica e Analisi Dati**: sviluppo software, data engineering (G. S. Ferrero)
+- **Amministrazione, Economia e Business Development**: gestione aziendale, economia, sviluppo commerciale, relazioni istituzionali (L. Di Domenico, C. D'Alessandro, F. Fadelli)
 
 ---
 
-## B — Prodotto / Mercato
+## B. Prodotto / Mercato
 
 ### B.1 Descrizione dei prodotti e servizi
 
@@ -160,19 +163,19 @@ Firmamento opera su tre livelli: **servizi attivi** (generano ricavi e competenz
 
 #### SERVIZI ATTIVI
 
-**1. Stampa 3D — Prototipazione rapida e manufacturing** *(Hub: Manufacturing)*
+**1. Stampa 3D: Prototipazione rapida e manufacturing** *(Hub: Manufacturing)*
 Prototipazione rapida, piccole serie e parti funzionali in tecnologia FDM con materiali tecnici (PLA, PETG, ABS, ASA, PA-CF, PA-GF). Servizi inclusi: progettazione meccanica, Design for Additive Manufacturing (DfAM), ottimizzazione. Target: PMI.
-*Contesto:* l'Italia è seconda in Europa per stampa 3D industriale (quota 4,7% del mercato globale — AITA-Cecimo, 2025); il 73% delle aziende italiane la usa solo occasionalmente (TechFromTheNet, 2025), segnalando ampio spazio di adozione sistematica.
+*Contesto:* l'Italia è seconda in Europa per stampa 3D industriale (quota 4,7% del mercato globale, AITA-Cecimo, 2025); il 73% delle aziende italiane la usa solo occasionalmente (TechFromTheNet, 2025), segnalando ampio spazio di adozione sistematica.
 
 **2. Automatizzazione AI e Gestione Dati** *(Hub: AI)*
 Consulenza e implementazione di soluzioni AI per l'automazione dei processi aziendali. Soluzione principale: **Private RAG** (knowledge base aziendali) con hosting locale in Italia (data sovereignty). Filosofia *"Humans Keep Purpose"*: l'AI accelera, gli umani decidono (human-in-the-loop garantito). Target: PMI e PA.
-*Contesto:* mercato AI italiano a € 1,8 miliardi nel 2025 (+50% YoY, dopo € 1,2 mld nel 2024) — Osservatorio AI, Politecnico di Milano. PMI (18% della spesa) e PA (19%) sono segmenti sotto-serviti dai grandi player di consulenza (ticket minimi troppo elevati).
+*Contesto:* mercato AI italiano a € 1,8 miliardi nel 2025 (+50% YoY, dopo € 1,2 mld nel 2024), Osservatorio AI, Politecnico di Milano. PMI (18% della spesa) e PA (19%) sono segmenti sotto-serviti dai grandi player di consulenza (ticket minimi troppo elevati).
 
 **3. Simulazione CFD con OpenFOAM** *(Hub: Engineering)*
 Modellazione fluidodinamica computazionale per progettazione e ottimizzazione, su framework open-source OpenFOAM (azzeramento dei costi di licenza). Integrazione con la stampa 3D per il ciclo completo simulazione → prototipazione → test.
 *Contesto:* mercato CFD globale stimato € 2,65–2,9 mld nel 2025, proiezione $ 12,52 mld entro il 2033 (Technavio / SNS Insider). In Italia l'unico competitor con focus specifico su OpenFOAM è CFD FEA Service Srl (Verona).
 
-#### PRODOTTO SCALABILE — Fibonacci (suite EMR per la sanità) *(Hub: Healthcare)*
+#### PRODOTTO SCALABILE: Fibonacci (suite EMR per la sanità) *(Hub: Healthcare)*
 
 **Fibonacci è la cartella clinica digitale che restituisce al medico il tempo che oggi spende dietro a carta, Excel e WhatsApp.** È il primo prodotto SaaS scalabile della cooperativa e la dimostrazione operativa del modello: un team di giovani ricercatori, abilitato dal contesto Firmamento, ha portato sul mercato un software sanitario reale e già fatturante.
 
@@ -187,8 +190,8 @@ Modellazione fluidodinamica computazionale per progettazione e ottimizzazione, s
 
 **Funzionalità chiave (modulo Estetica, live):**
 - **Body map 2D** con marcatura delle aree trattate; foto cliniche cifrate **AES-256** (GDPR by design)
-- **Dettatura clinica AI in tempo reale** — *Voxtral 24B* di Mistral AI, accuratezza dichiarata 95–98% sull'italiano medico (prove interne); estrazione strutturata dei campi anamnesi con **confidence score** per campo (l'AI propone, il medico valida)
-- **Consensi informati generati dall'AI e ancorati alla norma** — catalogo di ~30 procedure, conformità L. 219/2017 (8 sezioni obbligatorie), library di 72 clausole giuridiche estratte da fonti PA italiane (RAG-anchored, anti-allucinazione), confidence scoring per sezione (sotto 0,7 review medica obbligatoria), firma elettronica avanzata via **OTP eIDAS (Reg. UE 910/2014)**, output **PDF/A-3b** a conservazione decennale (CAD art. 44), AuditEvent FHIR immutabili
+- **Dettatura clinica AI in tempo reale**: *Voxtral 24B* di Mistral AI, accuratezza dichiarata 95–98% sull'italiano medico (prove interne); estrazione strutturata dei campi anamnesi con **confidence score** per campo (l'AI propone, il medico valida)
+- **Consensi informati generati dall'AI e ancorati alla norma**: catalogo di ~30 procedure, conformità L. 219/2017 (8 sezioni obbligatorie), library di 72 clausole giuridiche estratte da fonti PA italiane (RAG-anchored, anti-allucinazione), confidence scoring per sezione (sotto 0,7 review medica obbligatoria), firma elettronica avanzata via **OTP eIDAS (Reg. UE 910/2014)**, output **PDF/A-3b** a conservazione decennale (CAD art. 44), AuditEvent FHIR immutabili
 - **Catalogo farmaci AIFA** + off-label; **agenda** multi-operatore; **chatbot clinico in-app** context-aware
 - Conformità **GDPR**: trattamento dati come Responsabile (art. 28), DPA contrattuale, TLS 1.3 in transito, **MFA TOTP**, audit log immutabile, infrastruttura **in UE** (Hetzner, Germania); esportazione dati FHIR (GDPR art. 20)
 - **Non è un dispositivo medico MDR** (Reg. UE 2017/745): è strumento di supporto alla documentazione; nessun output AI persistito senza approvazione del medico (compliance RF-5.4)
@@ -203,7 +206,7 @@ Modellazione fluidodinamica computazionale per progettazione e ottimizzazione, s
 | Anno 2 | Rilascio Dermatologia e Psicologia; co-design Nutrizione e Ortopedia; primi clienti multi-sede (piano Clinica) | Validazione sperimentale; allineamento normativo ENAC/EASA |
 | Anno a regime | Rilascio Nutrizione, Ortopedia, Oculistica; integrazioni FSE 2.0; valutazione mercati esteri | Dimostratore e ricerca partner/bandi per industrializzazione |
 
-#### PROGETTO R&D — H.A.L.E. Piattaforma Stratosferica *(Hub: Aerospace)*
+#### PROGETTO R&D: H.A.L.E. Piattaforma Stratosferica *(Hub: Aerospace)*
 
 | Aspetto | Dettaglio |
 |---|---|
@@ -211,9 +214,9 @@ Modellazione fluidodinamica computazionale per progettazione e ottimizzazione, s
 | Quota operativa | ~20 km (stratosfera) |
 | Copertura | Raggio > 500 km · Latenza < 20 ms · Banda L-Band |
 | Finanziamento | € 50.000 a fondo perduto da Coopfond (Fonte: ANSA, 11/12/2025) |
-| Riconoscimenti | Best Newcomer Award — UAS Challenge 2025 |
+| Riconoscimenti | Best Newcomer Award, UAS Challenge 2025 |
 
-*Contesto:* mercato HAPS a $ 99 mln nel 2024, proiezione $ 210–240 mln entro il 2030 (CAGR 16–19,8% — MarkNtel / Mordor Intelligence). La Strategia Nazionale Aree Interne (SNAI) identifica 72 aree, 1.077 comuni e ~2,07 mln di abitanti con divario digitale; il PNRR ha stanziato € 3,8 mld per "Italia a 1 Giga". Le piattaforme stratosferiche sono complementari alle infrastrutture terrestri per le aree a fallimento di mercato. H.A.L.E. è il progetto R&D che agisce da vetrina tecnologica e da opzione di crescita a lungo termine.
+*Contesto:* mercato HAPS a $ 99 mln nel 2024, proiezione $ 210–240 mln entro il 2030 (CAGR 16–19,8%, MarkNtel / Mordor Intelligence). La Strategia Nazionale Aree Interne (SNAI) identifica 72 aree, 1.077 comuni e ~2,07 mln di abitanti con divario digitale; il PNRR ha stanziato € 3,8 mld per "Italia a 1 Giga". Le piattaforme stratosferiche sono complementari alle infrastrutture terrestri per le aree a fallimento di mercato. H.A.L.E. è il progetto R&D che agisce da vetrina tecnologica e da opzione di crescita a lungo termine.
 
 ### B.2 Mix di prodotto e prezzi
 
@@ -236,7 +239,7 @@ Firmamento combina **ricavi da progetto** (servizi, *value-based pricing*) e **r
 
 Trial 14 giorni gratuito (senza carta), garanzia *money-back* 90 giorni sui piani annuali, canone interamente deducibile. **Programma Fondatori:** i primi 50 studi ottengono uno sconto del 30% *grandfathered* perpetuo. Questo è il listino ufficiale a 4 fasce adottato nelle proiezioni del presente BP.
 
-**Distribuzione dei ricavi da mercato — Anno 1 (€ 85.000):**
+**Distribuzione dei ricavi da mercato, Anno 1 (€ 85.000):**
 
 | Linea di business | Ricavi obiettivo (€) | Peso % | Base di stima |
 |---|---|---|---|
@@ -281,13 +284,13 @@ Valori *target* sulla coorte Fondatori, da validare sul campo. Il churn basso ti
 | Mercato | Dimensione | Crescita | Fonte |
 |---|---|---|---|
 | AI Italia 2025 | € 1,8 mld | +50% YoY | Osservatorio AI, PoliMi |
-| Software sanitario / EMR Italia | mercato in digitalizzazione spinta (FSE 2.0, PNRR Missione Salute € 15,6 mld) | — | PNRR / Italia Domani |
-| Medici e studi privati in Italia | decine di migliaia di studi (estetica, dermatologia, nutrizione, psicologia, ortopedia, oculistica) | — | stima di settore |
-| Stampa 3D Italia (quota globale) | 4,7% (2ª in Europa) | — | AITA-Cecimo |
+| Software sanitario / EMR Italia | mercato in digitalizzazione spinta (FSE 2.0, PNRR Missione Salute € 15,6 mld) | n/d | PNRR / Italia Domani |
+| Medici e studi privati in Italia | decine di migliaia di studi (estetica, dermatologia, nutrizione, psicologia, ortopedia, oculistica) | n/d | stima di settore |
+| Stampa 3D Italia (quota globale) | 4,7% (2ª in Europa) | n/d | AITA-Cecimo |
 | CFD globale 2025 → 2033 | $ 2,65–2,9 mld → $ 12,52 mld | CAGR a doppia cifra | Technavio / SNS Insider |
 | HAPS globale 2024 → 2030 | $ 99 mln → $ 210–240 mln | CAGR 16–19,8% | MarkNtel / Mordor Intelligence |
 
-**Mercato di Fibonacci — sanità privata e digitalizzazione clinica.** Il software medico italiano è bloccato tra gestionali storici (design fermo agli anni 2000, pensati per la burocrazia amministrativa) e soluzioni internazionali che ignorano consensi informati, catalogo AIFA e normativa italiana. Fibonacci si posiziona nel mezzo: costruito in Italia per la clinica reale, ma su standard internazionali (FHIR R4, eIDAS) e tecnologie moderne (AI, body map, cifratura). Leva commerciale forte sul **rischio legale del consenso informato**: la Cassazione (sent. 26104/2022) documenta risarcimenti da € 50.000 a € 700.000 per vizio del consenso — a fronte di un canone Fibonacci Studio di ~€ 4.188/anno.
+**Mercato di Fibonacci, sanità privata e digitalizzazione clinica.** Il software medico italiano è bloccato tra gestionali storici (design fermo agli anni 2000, pensati per la burocrazia amministrativa) e soluzioni internazionali che ignorano consensi informati, catalogo AIFA e normativa italiana. Fibonacci si posiziona nel mezzo: costruito in Italia per la clinica reale, ma su standard internazionali (FHIR R4, eIDAS) e tecnologie moderne (AI, body map, cifratura). Leva commerciale forte sul **rischio legale del consenso informato**: la Cassazione (sent. 26104/2022) documenta risarcimenti da € 50.000 a € 700.000 per vizio del consenso, a fronte di un canone Fibonacci Studio di ~€ 4.188/anno.
 
 **Dimensionamento del mercato di Fibonacci (TAM / SAM / SOM).** Stima bottom-up sul numero di studi/professionisti privati italiani nelle specialità target, a un valore medio di ~€ 2.400/anno per studio (ARPA × 12):
 
@@ -305,10 +308,10 @@ Le startup innovative italiane sono 11.090 a gennaio 2026 (−4,2%). Gli incenti
 
 #### Barriere all'ingresso
 
-- **Competenze multidisciplinari integrate** — barriera alta; l'integrazione di AI, healthcare, manufacturing e simulazione in un unico soggetto richiede competenze rare, che la cooperativa aggrega e trattiene.
-- **Prodotto SaaS sanitario conforme** — barriera alta per Fibonacci: integrare FHIR R4, consensi normativi, eIDAS, GDPR e AI responsabile richiede competenza rara e tempo; chi compra un EMR cambia raramente fornitore (alti switching cost → retention).
-- **Costi di avviamento** — barriera media; contenuti grazie a tecnologie open-source e struttura cooperativa.
-- **Relazioni e reputazione** — barriera media; mitigata da Legacoop Liguria, Coopfond, copertura stampa (ANSA, Repubblica, Telenord, Genova24, Primo Canale) e Best Newcomer Award UAS Challenge 2025.
+- **Competenze multidisciplinari integrate**: barriera alta; l'integrazione di AI, healthcare, manufacturing e simulazione in un unico soggetto richiede competenze rare, che la cooperativa aggrega e trattiene.
+- **Prodotto SaaS sanitario conforme**: barriera alta per Fibonacci: integrare FHIR R4, consensi normativi, eIDAS, GDPR e AI responsabile richiede competenza rara e tempo; chi compra un EMR cambia raramente fornitore (alti switching cost → retention).
+- **Costi di avviamento**: barriera media; contenuti grazie a tecnologie open-source e struttura cooperativa.
+- **Relazioni e reputazione**: barriera media; mitigata da Legacoop Liguria, Coopfond, copertura stampa (ANSA, Repubblica, Telenord, Genova24, Primo Canale) e Best Newcomer Award UAS Challenge 2025.
 
 #### Principali concorrenti identificati
 
@@ -330,11 +333,11 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 **Distribuzione.** Vendita diretta dei soci (relazioni di medio-lungo periodo), demo self-service per Fibonacci, canale partner/rivenditori e network Legacoop Liguria.
 
-**Partnership verificate:** Legacoop Liguria (istituzionale), Coopfond (€ 50.000 per H.A.L.E.), Università di Genova (processo di spin-off in corso), DOPE Hubs (rete di scouting talenti STEM).
+**Partnership verificate:** Legacoop Liguria (istituzionale), Coopfond (€ 50.000 per H.A.L.E.), Università di Genova (processo di spin-off in corso), DOPE Hubs A.P.S. (parte dell'ecosistema: oltre 170 studenti e giovani ricercatori STEM, formazione alla cultura imprenditoriale).
 
 ---
 
-## C — Organizzazione / Investimenti
+## C. Organizzazione / Investimenti
 
 ### C.1 Aspetti organizzativi
 
@@ -344,7 +347,7 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | Di cui nel CdA | 5 (Di Domenico, Raggi, Giordano, Sanguineti, D'Alessandro) |
 | Sede operativa | Via Brigata Liguria 105R, Genova |
 
-**Struttura a hub guidata dalle persone.** La struttura segue i tre livelli di governance descritti in A.1 (strategia / apparati esecutivi / team di prodotto). Quando entra un nuovo talento può nascere o espandersi un hub; le funzioni trasversali (amministrazione, compliance, relazioni esterne, marketing, infrastruttura) sono **centralizzate** nella piattaforma cooperativa, così da alleggerire i team di prodotto. Il *Regolamento degli Apparati Esecutivi* fornisce il quadro per inserire — anche con figure esterne non socie — i ruoli trasversali oggi mancanti e prioritari: responsabile commerciale/marketing, **product manager di Fibonacci** e responsabile amministrativo-finanziario (CFO).
+**Struttura a hub guidata dalle persone.** La struttura segue i tre livelli di governance descritti in A.1 (strategia / apparati esecutivi / team di prodotto). Quando entra un nuovo talento può nascere o espandersi un hub; le funzioni trasversali (amministrazione, compliance, relazioni esterne, marketing, infrastruttura) sono **centralizzate** nella piattaforma cooperativa, così da alleggerire i team di prodotto. Il *Regolamento degli Apparati Esecutivi* fornisce il quadro per inserire, anche con figure esterne non socie, i ruoli trasversali oggi mancanti e prioritari: responsabile commerciale/marketing, **product manager di Fibonacci** e responsabile amministrativo-finanziario (CFO).
 
 ### C.2 Tecnologia e fasi del ciclo produttivo
 
@@ -360,8 +363,8 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | Costituzione e inizio attività | Completato | 26/09/2025 |
 | Iscrizione Startup Innovativa | Completato | 04/03/2026 |
 | Regolamenti interni (6) approvati dall'Assemblea / CdA | Completato | 07/11/2025 |
-| Spin-off Università di Genova | In corso | — |
-| DPA / compliance GDPR Fibonacci | Attivo (Responsabile art. 28) | — |
+| Spin-off Università di Genova | In corso | n/d |
+| DPA / compliance GDPR Fibonacci | Attivo (Responsabile art. 28) | n/d |
 
 ### C.7 Investimenti dettagliati
 
@@ -377,7 +380,7 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 ---
 
-## D — Aspetti economico/finanziari
+## D. Aspetti economico/finanziari
 
 ### D.1 Fabbisogno finanziario e fonti di copertura
 
@@ -385,9 +388,9 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 | Fonte | Importo (EUR) | Note |
 |---|---|---|
-| Capitale sociale (conferimenti soci) | 375 | 15 azioni × € 25,00 |
+| Capitale sociale (conferimenti soci) | 225 | Da visura camerale |
 | Contributo Coopfond | 50.000 | Fonte: ANSA, 11/12/2025 |
-| **TOTALE FONTI** | **50.375** | |
+| **TOTALE FONTI** | **50.225** | |
 
 **Fabbisogno operativo:**
 
@@ -397,11 +400,11 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | Capitale circolante netto (primi ~6 mesi: affitto, utenze, materiali, **go-to-market Fibonacci**) | 14.000 |
 | **TOTALE FABBISOGNO OPERATIVO** | **36.000** |
 
-La differenza tra fonti (€ 50.375) e fabbisogno (€ 36.000), pari a **€ 14.375**, è accantonata come **Riserva di Liquidità Strategica** per gestire i tempi di incasso (rilevanti su commesse PA) e accelerare lo sviluppo dei prodotti proprietari senza ricorso a credito esterno.
+La differenza tra fonti (€ 50.225) e fabbisogno (€ 36.000), pari a **€ 14.225**, è accantonata come **Riserva di Liquidità Strategica** per gestire i tempi di incasso (rilevanti su commesse PA) e accelerare lo sviluppo dei prodotti proprietari senza ricorso a credito esterno.
 
-**Trattamento contabile del contributo Coopfond (riclassificazione).** In coerenza con OIC 16/24 e con le osservazioni della nota di revisione (criticità #8), il contributo di € 50.000 — **a fondo perduto** — è ripartito secondo la destinazione:
+**Trattamento contabile del contributo Coopfond (riclassificazione).** In coerenza con OIC 16/24 e con le osservazioni della nota di revisione (criticità #8), il contributo di € 50.000, **a fondo perduto**: è ripartito secondo la destinazione:
 
-- **Quota asset (€ 19.000)** → *contributo in conto impianti*: iscritto a **risconti passivi** e rilasciato a conto economico (voce A5 — *Altri ricavi e proventi*) **in proporzione agli ammortamenti** dei beni finanziati (~€ 4.000/anno su vita utile media 5 anni).
+- **Quota asset (€ 19.000)** → *contributo in conto impianti*: iscritto a **risconti passivi** e rilasciato a conto economico (voce A5, *Altri ricavi e proventi*) **in proporzione agli ammortamenti** dei beni finanziati (~€ 4.000/anno su vita utile media 5 anni).
 - **Quota R&D H.A.L.E. (€ 31.000)** → *contributo in conto esercizio*: transita per **voce A5** man mano che i costi di ricerca sono sostenuti (≈ € 12.000 Anno 1, € 14.000 Anno 2, € 5.000 a seguire), a copertura dei relativi costi.
 
 Questa classificazione sostituisce l'iscrizione diretta a "riserve" della versione precedente, che non era coerente con la natura del contributo.
@@ -418,7 +421,7 @@ Il conto economico integra ora i **ricavi ricorrenti SaaS** di Fibonacci e la co
 | A.3 Manufacturing & Stampa 3D | 10.000 | 18.000 | 30.000 |
 | A.4 **Fibonacci SaaS Healthcare** | 15.000 | 80.000 | 280.000 |
 | A.5 Contributi (quota risconto asset + quota R&D Coopfond) | 16.000 | 18.000 | 7.000 |
-| *— di cui ricavi da mercato (A.1–A.4)* | *85.000* | *188.000* | *455.000* |
+| *di cui ricavi da mercato (A.1–A.4)* | *85.000* | *188.000* | *455.000* |
 | **B) COSTI DELLA PRODUZIONE** | **93.000** | **178.000** | **370.000** |
 | B.1 Materie prime e consumi tecnici | 8.000 | 12.000 | 22.000 |
 | B.2 Servizi, affitto, licenze, **cloud & AI inference** | 20.000 | 38.000 | 76.000 |
@@ -433,7 +436,7 @@ Il conto economico integra ora i **ricavi ricorrenti SaaS** di Fibonacci e la co
 **Note di lettura:**
 
 - I costi R&D di H.A.L.E. (B.6) sono coperti dalla corrispondente quota di contributo in A.5: l'effetto sul risultato è **neutro**, ma la rappresentazione è ora corretta (criticità #7, #8).
-- I costi di **marketing/acquisizione** (B.4) sono stati portati a livelli realistici per sostenere il go-to-market SaaS — la versione precedente li sottostimava (criticità #6, #7).
+- I costi di **marketing/acquisizione** (B.4) sono stati portati a livelli realistici per sostenere il go-to-market SaaS, la versione precedente li sottostimava (criticità #6, #7).
 - Il **costo del personale** cresce da € 42k a € 205k seguendo la capacità della cooperativa di remunerare equamente i soci man mano che i ricavi (specie ricorrenti) lo consentono.
 - L'**operating leverage** del SaaS è il motore della redditività a regime: Fibonacci passa dal 18% al ~61% dei ricavi da mercato, con costo marginale per cliente ridotto.
 - Le **imposte** riflettono il regime agevolato delle cooperative a mutualità prevalente (esenzione IRES sulla quota di utili destinata a riserve indivisibili), inferiore all'aliquota ordinaria applicata nella versione precedente.
@@ -442,8 +445,8 @@ Il conto economico integra ora i **ricavi ricorrenti SaaS** di Fibonacci e la co
 
 Calcolato sul **business di mercato** dell'Anno 1 (esclusa la R&D coperta da contributo):
 
-- **Costi fissi (CF):** € 51.000 — affitto/utenze, software/amministrazione, ammortamenti, cloud base, marketing strutturale, indennità fissa soci.
-- **Costi variabili (CV):** € 30.000 — materie prime/consumi, AI inference variabile, premi soci legati all'incasso.
+- **Costi fissi (CF):** € 51.000 (affitto/utenze, software/amministrazione, ammortamenti, cloud base, marketing strutturale, indennità fissa soci).
+- **Costi variabili (CV):** € 30.000 (materie prime/consumi, AI inference variabile, premi soci legati all'incasso).
 - **Margine di contribuzione (MdC):** (85.000 − 30.000) / 85.000 = **64,7%**
 - **Punto di pareggio (BEP):** 51.000 / 0,647 = **≈ € 78.800**
 
@@ -468,9 +471,9 @@ Strategia improntata all'indipendenza dal debito bancario. **Debiti verso banche
 
 | Fonte | Importo | Destinazione |
 |---|---|---|
-| Capitale sociale versato | € 375 | Spese amministrative e di costituzione |
+| Capitale sociale versato | € 225 | Spese amministrative e di costituzione |
 | Contributo Coopfond | € 50.000 | Asset tecnologici (€ 19.000 → risconti passivi) e R&D H.A.L.E. (€ 31.000 → A5) |
-| **TOTALE FONTI** | **€ 50.375** | |
+| **TOTALE FONTI** | **€ 50.225** | |
 
 La dotazione tecnica (stampanti 3D, workstation CFD, server AI) è acquisita con quota del contributo, senza gravare sulla liquidità dei soci. La quota prevalente sostiene la R&D H.A.L.E. (sensoristica, materiali compositi, test). Crescita organica: investimenti straordinari coperti da fondi mutualistici/agevolati, gestione corrente sostenuta dal flusso di cassa di commesse e abbonamenti.
 
@@ -478,10 +481,10 @@ La dotazione tecnica (stampanti 3D, workstation CFD, server AI) è acquisita con
 
 | Periodo | Entrate | Uscite | Saldo periodo | Saldo progressivo |
 |---|---|---|---|---|
-| I Trim. (avvio) | € 50.375 (cap. soc. + Coopfond) | € 4.000 (notarili, iscrizioni, allestimento) | + € 46.375 | € 46.375 |
-| Mesi 4–8 (operatività) | € 38.000 (acconti AI/CFD/3D + primi abbonamenti Fibonacci) | € 50.000 (€ 22k asset · € 16k compensi · € 12k gestione/marketing) | − € 12.000 | € 34.375 |
-| Mesi 9–12 (consolidamento) | € 52.000 (saldi commesse, abbonamenti ricorrenti, milestone H.A.L.E.) | € 41.000 (compensi, gestione, R&D) | + € 11.000 | € 45.375 |
-| **TOTALE ANNUALE** | **€ 140.375** | **€ 95.000** | **+ € 45.375** | **€ 45.375** |
+| I Trim. (avvio) | € 50.225 (cap. soc. + Coopfond) | € 4.000 (notarili, iscrizioni, allestimento) | + € 46.225 | € 46.225 |
+| Mesi 4–8 (operatività) | € 38.000 (acconti AI/CFD/3D + primi abbonamenti Fibonacci) | € 50.000 (€ 22k asset · € 16k compensi · € 12k gestione/marketing) | − € 12.000 | € 34.225 |
+| Mesi 9–12 (consolidamento) | € 52.000 (saldi commesse, abbonamenti ricorrenti, milestone H.A.L.E.) | € 41.000 (compensi, gestione, R&D) | + € 11.000 | € 45.225 |
+| **TOTALE ANNUALE** | **€ 140.225** | **€ 95.000** | **+ € 45.225** | **€ 45.225** |
 
 Il contributo incassato nel I trimestre crea una riserva-cuscinetto per l'intera fase di startup. Il deficit programmato dei mesi 4–8 (anno di investimento) è interamente coperto dalla liquidità iniziale. La cooperativa chiude l'anno con ~€ 45k di giacenza, a copertura del primo semestre dell'Anno 2 e a sostegno della crescita del SaaS.
 
@@ -489,13 +492,13 @@ Il contributo incassato nel I trimestre crea una riserva-cuscinetto per l'intera
 
 | ATTIVO (Impieghi) | € | PASSIVO E NETTO (Fonti) | € |
 |---|---|---|---|
-| A) Immobilizzazioni tecniche (€ 22k − amm. € 4k) | 18.000 | A) Patrimonio netto | 7.175 |
-| B) Attivo circolante (cassa) | 45.375 | — Capitale sociale | 375 |
-| | | — Utile d'esercizio | 6.800 |
+| A) Immobilizzazioni tecniche (€ 22k − amm. € 4k) | 18.000 | A) Patrimonio netto | 7.025 |
+| B) Attivo circolante (cassa) | 45.225 | Capitale sociale | 225 |
+| | | Utile d'esercizio | 6.800 |
 | | | B) Risconti passivi (quota contributo asset residua) | 15.000 |
 | | | C) Debiti v/banche | 0 |
 | | | D) Altri debiti (tributari, fornitori, ratei) | 41.200 |
-| **TOTALE ATTIVO** | **63.375** | **TOTALE PASSIVO E NETTO** | **63.375** |
+| **TOTALE ATTIVO** | **63.225** | **TOTALE PASSIVO E NETTO** | **63.225** |
 
 > Rispetto alla versione precedente, il contributo non è più iscritto integralmente a "riserve": la quota asset figura tra i **risconti passivi** (rilasciata negli anni con gli ammortamenti) e la quota R&D è transitata a conto economico (A5) a copertura dei costi. Il prospetto è una sintesi gestionale; lo schema civilistico di dettaglio andrà redatto in sede di bilancio.
 
@@ -529,13 +532,13 @@ Il contributo incassato nel I trimestre crea una riserva-cuscinetto per l'intera
 | Premi e rimborsi | € 26.000 | Compensi variabili legati alla chiusura delle commesse |
 | **TOTALE PERSONALE** | **€ 42.000** | In crescita a € 88k (A2) e € 205k (regime) con i ricavi |
 
-**Costi R&D progetti proprietari (H.A.L.E.):** € 12.000 (Anno 1) — coperti dalla quota di contributo Coopfond rilevata in A5.
+**Costi R&D progetti proprietari (H.A.L.E.):** € 12.000 (Anno 1), coperti dalla quota di contributo Coopfond rilevata in A5.
 
 ### D.10 Conto economico per prodotto (vista gestionale)
 
 Allocazione gestionale dei costi diretti per linea, per evidenziare la **contribuzione** di ciascun prodotto (è una riclassifica interna del conto economico consolidato D.2, non uno schema civilistico):
 
-**Fibonacci (SaaS) — mini P&L:**
+**Fibonacci (SaaS), mini P&L:**
 
 | Voce | Anno 1 | Anno 2 | Anno a regime |
 |---|---|---|---|
@@ -548,7 +551,7 @@ Allocazione gestionale dei costi diretti per linea, per evidenziare la **contrib
 
 La curva è la tipica **J-curve** del SaaS: l'Anno 1 è in investimento (sviluppo + acquisizione clienti, coperto dalla liquidità del contributo), il prodotto va in positivo dall'Anno 2 e genera la quota maggiore di marginalità a regime.
 
-**Servizi (AI + CFD + 3D) — contribuzione aggregata:**
+**Servizi (AI + CFD + 3D), contribuzione aggregata:**
 
 | Voce | Anno 1 | Anno 2 | Anno a regime |
 |---|---|---|---|
@@ -565,8 +568,8 @@ I servizi finanziano la struttura e l'investimento iniziale in Fibonacci; Fibona
 
 I costi di sviluppo del software Fibonacci, sostenuti internamente, presentano i requisiti per la **capitalizzazione come immobilizzazione immateriale** ai sensi dell'OIC 24 (fattibilità tecnica, intenzione e capacità di completamento e uso, benefici economici futuri attendibili, misurabilità dei costi, risorse adeguate). Trattamento adottato:
 
-- I costi di sviluppo capitalizzabili sono iscritti tra le **immobilizzazioni immateriali** ("Costi di sviluppo — software Fibonacci"), con contropartita la voce **A4 del conto economico** (incrementi di immobilizzazioni per lavori interni).
-- Ammortamento lungo la vita utile stimata (max 5 anni salvo vita utile dimostrabile superiore — OIC 24).
+- I costi di sviluppo capitalizzabili sono iscritti tra le **immobilizzazioni immateriali** ("Costi di sviluppo, software Fibonacci"), con contropartita la voce **A4 del conto economico** (incrementi di immobilizzazioni per lavori interni).
+- Ammortamento lungo la vita utile stimata (max 5 anni salvo vita utile dimostrabile superiore, OIC 24).
 - Stima prudenziale del valore capitalizzato al 31/12 Anno 1: **~€ 20.000** (netto ammortamento del primo periodo), che rende finalmente visibile a bilancio l'**asset proprietario** prima assente.
 
 > L'effetto è una rappresentazione patrimoniale più fedele (l'IP sviluppato diventa attivo) e una migliore correlazione costi-ricavi. Per prudenza e comparabilità, i prospetti D.2 e D.8 sono presentati **al lordo di tale capitalizzazione**: la sua applicazione incrementerebbe sia le immobilizzazioni immateriali sia il risultato d'esercizio dell'importo capitalizzato (voce A4). L'importo definitivo sarà determinato in sede di bilancio con il dettaglio analitico delle ore/risorse dedicate allo sviluppo.
@@ -585,7 +588,7 @@ I costi di sviluppo del software Fibonacci, sostenuti internamente, presentano i
 | Genova24 | Testata online locale | |
 | Primo Canale | Emittente TV regionale | |
 
-Riconoscimento: **Best Newcomer Award — UAS Challenge 2025** (progetto H.A.L.E.).
+Riconoscimento: **Best Newcomer Award, UAS Challenge 2025** (progetto H.A.L.E.).
 
 ---
 
@@ -603,10 +606,10 @@ Il risultato è un ciclo virtuoso: **persone → contesto → competenze → pro
 
 ### Perché la cooperativa è un vantaggio competitivo nel deep-tech
 
-- **Retention** — il socio è co-proprietario, non se ne va per un +10%.
-- **Allineamento** — chi lavora decide e chi decide lavora: nessun conflitto management/operativi.
-- **Attrazione talenti** — in un mercato dove ~1.010 aziende AI competono per gli stessi profili, offrire partecipazione e governance è un differenziatore potente.
-- **Strumenti esclusivi** — il sistema cooperativo (Legacoop, Coopfond, FILSE) offre finanziamenti e network inaccessibili a SRL/SPA tradizionali.
+- **Retention**: il socio è co-proprietario, non se ne va per un +10%.
+- **Allineamento**: chi lavora decide e chi decide lavora: nessun conflitto management/operativi.
+- **Attrazione talenti**: in un mercato dove ~1.010 aziende AI competono per gli stessi profili, offrire partecipazione e governance è un differenziatore potente.
+- **Strumenti esclusivi**: il sistema cooperativo (Legacoop, Coopfond, FILSE) offre finanziamenti e network inaccessibili a SRL/SPA tradizionali.
 
 ### Quadro normativo: rischi e opportunità
 
@@ -621,4 +624,4 @@ Il risultato è un ciclo virtuoso: **persone → contesto → competenze → pro
 
 ---
 
-*Documento di revisione redatto il 26/05/2026 — Firmamento Technologies Società Cooperativa · Via Brigata Liguria 105R, Genova (GE) · P.IVA/C.F. 03038500991 · Startup Innovativa, Registro MIMIT.*
+*Documento di revisione redatto il 26/05/2026, Firmamento Technologies Società Cooperativa · Via Brigata Liguria 105R, Genova (GE) · P.IVA/C.F. 03038500991 · Startup Innovativa, Registro MIMIT.*
