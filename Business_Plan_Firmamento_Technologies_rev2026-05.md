@@ -5,11 +5,12 @@
 > **Sintesi delle revisioni rispetto alla versione 15/03/2026** *(sezione di servizio, eliminabile prima dell'invio)*
 >
 > 1. **Rimosso** il progetto R&D *TIRO-Scientific* da tutto il documento.
-> 2. **Riformulato** il modello di business: Firmamento è il **contesto che trasforma giovani ricercatori in imprenditori** (appartenenza, fiducia, alleggerimento degli ostacoli tramite centralizzazione di burocrazia e relazioni esterne). Questo chiarisce la separazione tra governance / piattaforma / venture richiesta dalle note di revisione (criticità #1, #3, #4).
-> 3. **Aggiunto** come prodotto scalabile la suite **Fibonacci** (cartella clinica / EMR per la sanità), già live sul modulo Medicina Estetica. Risponde alla criticità #9 (prodotti scalabili).
-> 4. **Rielaborato** il conto economico triennale, il MOL, il break-even e lo stato patrimoniale per integrare i ricavi ricorrenti SaaS di Fibonacci.
-> 5. **Riclassificato** il contributo Coopfond (quota asset → risconti passivi; quota R&D → voce A5) per coerenza contabile (criticità #7, #8).
-> 6. In **Appendice** una tabella che mappa le 9 criticità della nota 11/05/2026 sulle modifiche introdotte.
+> 2. **Riformulato** il modello di business: Firmamento è il **contesto che trasforma giovani ricercatori in imprenditori** (appartenenza, fiducia, alleggerimento degli ostacoli tramite centralizzazione di burocrazia e relazioni esterne).
+> 3. **Ancorata la governance ai regolamenti interni** approvati il 07/11/2025 (Apparati Esecutivi, Elezioni, Ammissione/Uscita soci, Ristorni) e introdotto il **Fondo F.A.S.** come motore del venture building (criticità #1, #2, #3). **DOPE Hubs** ridotto a semplice citazione. L'evoluzione **coop + SRL** ha il meccanismo pronto (F.A.S.) ma lo **scorporo di Fibonacci resta una decisione aperta** (#4).
+> 4. **Aggiunto** come prodotto scalabile la suite **Fibonacci** (cartella clinica / EMR per la sanità), già live sul modulo Medicina Estetica (criticità #9).
+> 5. **Rielaborato** il conto economico triennale, il MOL, il break-even e lo stato patrimoniale per integrare i ricavi ricorrenti SaaS di Fibonacci, con costi realistici (#6, #7).
+> 6. **Riclassificato** il contributo Coopfond (quota asset → risconti passivi; quota R&D → voce A5) per coerenza contabile (#8).
+> 7. In **Appendice** una tabella che mappa le 9 criticità della nota 11/05/2026 sulle modifiche introdotte.
 
 ---
 
@@ -82,15 +83,11 @@ Firmamento risolve esattamente questo problema. La cooperativa è la **struttura
 
 **Il "prodotto" di Firmamento, quindi, è duplice e ricorsivo: produce imprenditori e produce le imprese che essi creano.** Le persone restano al centro, ma con un ruolo preciso e leggibile: la cooperativa è la piattaforma di competenze e il motore operativo; i prodotti e le venture (Fibonacci, i servizi di ingegneria, il progetto aerospaziale H.A.L.E.) sono ciò che le persone, abilitate da quel contesto, riescono a costruire.
 
-Il modello economico è semplice e leggibile: **le commesse generano ricavi e competenze; i ricavi alimentano un fondo interno; il fondo finanzia lo sviluppo dei prodotti scalabili** (oggi Fibonacci) e, in prospettiva, lo spin-off in società dedicate delle iniziative più mature. Ogni commessa serve due scopi: cassa nel breve e costruzione di asset proprietari (competenze, IP, relazioni) nel medio-lungo periodo.
+Il modello economico è semplice e leggibile: **le commesse e gli abbonamenti generano ricavi e competenze; una quota degli utili alimenta un fondo dedicato — il *Fondo F.A.S. (Fondo per l'Avvio delle Startup)* — che può finanziare la nascita di nuove società (NewCo) promosse dai soci.** Ogni commessa serve due scopi: cassa nel breve e costruzione di asset proprietari (competenze, IP, relazioni) nel medio-lungo periodo. Il Fondo F.A.S. è già istituito e disciplinato da apposito regolamento interno (vedi *Governance, regolamenti interni e Fondo F.A.S.*).
 
 Alla data di redazione Firmamento opera su tre verticali di servizio attivi — **Stampa 3D**, **Automatizzazione AI e Gestione Dati**, **Simulazione CFD con OpenFOAM** — un prodotto software scalabile già sul mercato — **Fibonacci** (suite di cartella clinica per la sanità) — e un progetto di Ricerca e Sviluppo, **H.A.L.E.** (piattaforma stratosferica, finanziata con € 50.000 a fondo perduto da Coopfond).
 
 La cooperativa è iscritta come Startup Innovativa ai sensi dell'art. 25 D.L. 179/2012. Ad oggi non risulta alcuna altra cooperativa deep-tech in Italia (Fonte: ricerca su registri MIMIT e Legacoop nazionale, 2025). Firmamento occupa una categoria di fatto vuota: una cooperativa che trasforma ricercatori in imprenditori e fa nascere prodotti deep-tech. Questo posizionamento è deliberato e rappresenta una barriera all'imitazione.
-
-#### L'ecosistema DOPE Hubs
-
-DOPE Hubs è il **canale di ingresso delle persone** nell'ecosistema Firmamento: piattaforma di scouting, selezione e attivazione di competenze STEM. Attraverso il modello proprietario *Project-Based Recruiting*, Firmamento assembla team multidisciplinari su qualsiasi verticale tecnologico, attivando specialisti dal network DOPE Hubs su progetti specifici. Coerentemente con il modello, DOPE Hubs è il meccanismo con cui nuovi potenziali soci-imprenditori incontrano il contesto che li fa maturare.
 
 #### Compagine societaria
 
@@ -110,13 +107,32 @@ La cooperativa conta 9 soci cooperatori:
 
 Cooperativa a mutualità prevalente, **voto per testa** (1 socio = 1 voto) indipendentemente dal capitale conferito. Ogni socio fondatore ha sottoscritto 1 azione da € 25,00 nominali (totale € 225 capitale sociale). Nessun Collegio Sindacale (non ricorrono i presupposti art. 2477 c.c.). CdA di 5 membri con mandato fino al bilancio 31/12/2027.
 
-**Chiarimento di governance** (in risposta alle note di revisione). Il modello distingue tre livelli, oggi resi espliciti:
+#### Governance, regolamenti interni e Fondo F.A.S.
 
-- **Governance strategica** — Assemblea dei soci (voto per testa) e CdA (5 membri): approvano budget, avvio/chiusura di prodotti e progetti, destinazione degli utili e del fondo interno, ingressi/uscite soci.
-- **Operatività e piattaforma** — la struttura centrale che eroga i servizi condivisi (amministrazione, compliance, relazioni esterne, infrastruttura) a tutte le iniziative.
-- **Team di prodotto/progetto** — i gruppi che eseguono commesse e sviluppano i prodotti (es. team Fibonacci, team Engineering/CFD, team H.A.L.E.), con un referente responsabile per ciascuno.
+L'Assemblea dei soci ha approvato il **07/11/2025** un corpo organico di **regolamenti interni** che formalizza la governance e scioglie le ambiguità segnalate in sede di revisione (Ristorni; Organizzativo Generale; Elezioni Organi Sociali; Criteri di Ammissione Soci; Apparati Esecutivi; Gestionale del Fondo F.A.S.). Il modello distingue tre livelli:
 
-Le decisioni di investimento sui prodotti scalabili sono assunte dal CdA su proposta del referente di prodotto, secondo criteri definiti (validazione di mercato, fabbisogno, ritorno atteso). La quota di soci nel CdA (5 su 9) è gestita con deleghe operative chiare per evitare sovrapposizione tra chi decide e chi opera.
+- **Governance strategica** — Assemblea (voto per testa) e CdA (5 membri): approvano budget, avvio/chiusura di prodotti e progetti, destinazione degli utili e del Fondo F.A.S., ammissione e uscita dei soci. Le elezioni seguono il *Regolamento Elezioni Organi Sociali*, con **rinnovo scaglionato** del CdA (~1/3 l'anno), Comitato Nomine consultivo, cooptazione (art. 2386 c.c.) e piani di successione: continuità garantita, nessun ricambio totale e brusco.
+- **Apparati esecutivi** — il *Regolamento degli Apparati Esecutivi (RAE)* consente al CdA di nominare figure apicali (DG/CEO, CFO, COO, CTO, General Counsel, responsabili di Business Unit/Progetto), **anche non soci ed esterne**, operanti tramite deleghe e procure (artt. 2203 e 2381 c.c.) revocabili *ad nutum*. È la separazione formale tra **chi indirizza (CdA) e chi gestisce (management)** richiesta dalle note, nonché la via per inserire le figure trasversali oggi mancanti (vedi C.1).
+- **Team di prodotto/progetto** — i gruppi che eseguono commesse e sviluppano i prodotti (team Fibonacci, Engineering/CFD, H.A.L.E.), ciascuno con un referente responsabile.
+
+**Ingressi e uscite dei soci** sono disciplinati dal *Regolamento Organizzativo Generale* e dal *Regolamento Criteri di Ammissione*: ammissione su domanda al CdA (delibera entro 60 gg, *mission-fit*, **impegno minimo di partecipazione lavorativa** per evitare soci solo nominali); **recesso** ex art. 2532 c.c.; **esclusione** con contestazione scritta e contraddittorio (cause tipizzate: inattività mutualistica, concorrenza non autorizzata, sviamento di opportunità, violazione di riservatezza/IP); **rimborso della quota** sul bilancio dell'esercizio di cessazione, entro 180 gg dall'approvazione (art. 2535 c.c.). Riserve indivisibili e ristorni già capitalizzati restano alla cooperativa.
+
+**Categorie di soci e capitale.** Oltre a soci lavoratori e fruitori, il regolamento prevede i **soci finanziatori/sovventori** (art. 2526 c.c., art. 4 L. 59/1992): è la via ordinata per **aprire il capitale a investitori** (business angel, partner) senza snaturare la cooperativa (voti dei finanziatori entro 1/3). Costituisce la leva prevista per rafforzare il capitale sociale, oggi limitato a € 225.
+
+**Remunerazione mutualistica.** Il *Regolamento Ristorni* (art. 2545-sexies c.c.) distribuisce ai soci il vantaggio mutualistico in proporzione a quantità e qualità del lavoro/scambio, entro il tetto del 30% dei trattamenti retributivi (L. 142/2001), con possibilità di capitalizzazione.
+
+##### Il Fondo F.A.S. e il venture building cooperativo
+
+Il *Regolamento Gestionale del Fondo F.A.S. (Fondo per l'Avvio delle Startup)*, approvato dal CdA il 07/11/2025, è il **motore strutturato del venture building** e risponde direttamente alle domande su regia, criteri di selezione, investimenti ed equity:
+
+- **Cos'è** — riserva patrimoniale indivisibile e **rotativa** (i proventi rientrano nel Fondo), intestata alla cooperativa, destinata a finanziare la **costituzione e l'avvio di NewCo (SRL/SpA) promosse da soci lavoratori**.
+- **Alimentazione** — quota dell'utile annuo (indicativamente il **10%**) dopo gli accantonamenti di legge (30% riserva legale + 3% fondi mutualistici), più riserve, ristorni non erogati e contributi/grant. **Mai** dal prestito sociale.
+- **Selezione e decisione** — istruttoria e due diligence accentrate negli apparati esecutivi (DG/CEO, CFO, CTO/COO): pre-selezione, due diligence (mercato, sostenibilità, rischi, IP, impatto occupazionale per i soci, coerenza con la mission) e relazione tecnica con importo e quota proposti. Soglie operative: importi piccoli decisi da DG+CFO; importi maggiori elevati al CdA. L'Assemblea **non** entra nelle singole operazioni (delibera solo la quota annua a Fondo e riceve informativa in Nota Integrativa).
+- **Tutele nelle NewCo** — forchette partecipative (quota min/max della coop), **golden share** e **mission lock**, **vesting** per i soci promotori (cliff 6–12 mesi, *bad/good leaver*), lock-up, clawback e anti-dilution; licenze IP coop↔NewCo con IP-lock; *service agreement* per i servizi condivisi a condizioni *arm's length*.
+
+In altre parole, **la "rete di progetti" diventa una struttura imprenditoriale che seleziona, decide, investe e detiene equity** — esattamente ciò che mancava. Il Fondo F.A.S. è anche il **meccanismo già pronto per l'evoluzione "cooperativa + SRL"**: a maturità, un prodotto può essere scorporato in una NewCo dedicata partecipata dalla cooperativa.
+
+> **Scorporo di Fibonacci in SRL: decisione ancora aperta.** L'architettura per farlo esiste già (Fondo F.A.S.), ma **non è ancora stato deciso** se e quando Fibonacci verrà trasferita in una società dedicata: la scelta sarà valutata in funzione di traction, fabbisogno di capitale e attrattività per gli investitori. Allo stato, Fibonacci resta un prodotto interno alla cooperativa.
 
 #### Motivazioni dei soci
 
@@ -260,7 +276,7 @@ Le startup innovative italiane sono 11.090 a gennaio 2026 (−4,2%). Gli incenti
 
 #### Barriere all'ingresso
 
-- **Competenze multidisciplinari integrate** — barriera alta; superata dal Project-Based Recruiting via DOPE Hubs.
+- **Competenze multidisciplinari integrate** — barriera alta; l'integrazione di AI, healthcare, manufacturing e simulazione in un unico soggetto richiede competenze rare, che la cooperativa aggrega e trattiene.
 - **Prodotto SaaS sanitario conforme** — barriera alta per Fibonacci: integrare FHIR R4, consensi normativi, eIDAS, GDPR e AI responsabile richiede competenza rara e tempo; chi compra un EMR cambia raramente fornitore (alti switching cost → retention).
 - **Costi di avviamento** — barriera media; contenuti grazie a tecnologie open-source e struttura cooperativa.
 - **Relazioni e reputazione** — barriera media; mitigata da Legacoop Liguria, Coopfond, copertura stampa (ANSA, Repubblica, Telenord, Genova24, Primo Canale) e Best Newcomer Award UAS Challenge 2025.
@@ -283,9 +299,9 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 **Go-to-market Fibonacci (SaaS):** demo pubblica self-service (zero attrito), trial 14 giorni, **Programma Fondatori** (primi 50 studi, sconto 30% perpetuo) per costruire i primi referral, content marketing verticale (leva sul rischio legale del consenso), passaparola tra specialisti, e canale **partner/rivenditori** (programma partner attivo) per accelerare l'acquisizione senza appesantire la struttura. Espansione progressiva alle 5 specialità in co-design.
 
-**Distribuzione.** Vendita diretta dei soci (relazioni di medio-lungo periodo), ecosistema DOPE Hubs, network Legacoop Liguria.
+**Distribuzione.** Vendita diretta dei soci (relazioni di medio-lungo periodo), demo self-service per Fibonacci, canale partner/rivenditori e network Legacoop Liguria.
 
-**Partnership verificate:** Legacoop Liguria (istituzionale), DOPE Hubs (acquisizione talenti e co-sviluppo), Coopfond (€ 50.000 per H.A.L.E.), Università di Genova (processo di spin-off in corso).
+**Partnership verificate:** Legacoop Liguria (istituzionale), Coopfond (€ 50.000 per H.A.L.E.), Università di Genova (processo di spin-off in corso), DOPE Hubs (rete di scouting talenti STEM).
 
 ---
 
@@ -299,7 +315,7 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | Di cui nel CdA | 5 (Di Domenico, Raggi, Giordano, Sanguineti, D'Alessandro) |
 | Sede operativa | Via Brigata Liguria 105R, Genova |
 
-**Struttura a hub guidata dalle persone.** La struttura segue i tre livelli di governance descritti in A.1 (strategia / piattaforma operativa / team di prodotto). Quando un nuovo talento entra tramite DOPE Hubs può nascere o espandersi un hub; le funzioni trasversali (amministrazione, compliance, relazioni esterne, marketing, infrastruttura) sono **centralizzate** nella piattaforma cooperativa, così da alleggerire i team di prodotto. È in corso il rafforzamento delle figure trasversali (business/marketing/sales e responsabile prodotto Fibonacci), coerentemente con le esigenze di un modello che opera anche come abilitatore di impresa.
+**Struttura a hub guidata dalle persone.** La struttura segue i tre livelli di governance descritti in A.1 (strategia / apparati esecutivi / team di prodotto). Quando entra un nuovo talento può nascere o espandersi un hub; le funzioni trasversali (amministrazione, compliance, relazioni esterne, marketing, infrastruttura) sono **centralizzate** nella piattaforma cooperativa, così da alleggerire i team di prodotto. Il *Regolamento degli Apparati Esecutivi* fornisce il quadro per inserire — anche con figure esterne non socie — i ruoli trasversali oggi mancanti e prioritari: responsabile commerciale/marketing, **product manager di Fibonacci** e responsabile amministrativo-finanziario (CFO).
 
 ### C.2 Tecnologia e fasi del ciclo produttivo
 
@@ -314,6 +330,7 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 |---|---|---|
 | Costituzione e inizio attività | Completato | 26/09/2025 |
 | Iscrizione Startup Innovativa | Completato | 04/03/2026 |
+| Regolamenti interni (6) approvati dall'Assemblea / CdA | Completato | 07/11/2025 |
 | Spin-off Università di Genova | In corso | — |
 | DPA / compliance GDPR Fibonacci | Attivo (Responsabile art. 28) | — |
 
@@ -539,12 +556,12 @@ Il risultato è un ciclo virtuoso: **persone → contesto → competenze → pro
 
 | # | Criticità rilevata | Risposta in questa revisione |
 |---|---|---|
-| 1 | Governance poco separata da operatività/venture | Esplicitati 3 livelli (strategia / piattaforma operativa / team di prodotto), con deleghe e criteri di investimento (A.1, C.1) |
-| 2 | 9 soci / CdA 5 | Deleghe operative chiare; ruolo della piattaforma centrale per separare "chi decide" da "chi opera" |
-| 3 | Venture building poco strutturato | Modello esplicito "ricercatori → imprenditori"; fondo interno → prodotti scalabili; Fibonacci come caso reale |
-| 4 | Evoluzione del modello (coop + SRL) | Prevista la possibilità di spin-off in società dedicate delle iniziative più mature, mantenendo la coop come motore |
+| 1 | Governance poco separata da operatività/venture | 3 livelli (strategia / apparati esecutivi / team di prodotto) ancorati ai **regolamenti interni** approvati il 07/11/2025: RAE (deleghe e procure, anche a esterni), Elezioni (rinnovo scaglionato, successione), Fondo F.A.S. per le decisioni di investimento (A.1) |
+| 2 | 9 soci / CdA 5 / uscite soci | *Regolamento Organizzativo* + *Criteri di Ammissione*: recesso (art. 2532 c.c.), esclusione con contraddittorio, **rimborso quota entro 180 gg** (art. 2535 c.c.), impegno minimo di lavoro; rinnovo CdA scaglionato (A.1) |
+| 3 | Venture building poco strutturato | **Fondo F.A.S.**: regia esecutiva, criteri di selezione e due diligence, investimenti in NewCo, equity con golden share/mission lock/vesting, fondo rotativo (A.1) |
+| 4 | Evoluzione del modello (coop + SRL) | Meccanismo **già pronto** (Fondo F.A.S. → NewCo SRL/SpA partecipate). **Decisione di scorporo di Fibonacci ancora aperta**, da valutare su traction/capitale (A.1) |
 | 5 | Analisi di mercato generica | Aggiunto mercato EMR/sanità, FSE 2.0, leva legale del consenso; mantenute fonti su AI/CFD/3D/HAPS |
-| 6 | Mancano figure trasversali; costi marketing/personale sottostimati | Rafforzo business/marketing e responsabile prodotto; marketing e personale riportati a livelli realistici (D.2, D.9) |
+| 6 | Mancano figure trasversali; costi marketing/personale sottostimati | RAE consente l'inserimento di figure esterne (commerciale/marketing, PM Fibonacci, CFO); marketing e personale riportati a livelli realistici (C.1, D.2, D.9) |
 | 7 | Aspetti economico-finanziari da rivedere | Conto economico, MOL, BEP, SP rielaborati con ricavi SaaS e costi realistici |
 | 8 | Natura contabile del contributo Coopfond | Riclassificato: quota asset → risconti passivi; quota R&D → A5 (D.1, D.2, D.8) |
 | 9 | Focus sui prodotti scalabili | **Fibonacci** descritto come prodotto SaaS scalabile con mercato, pricing, modello abbonamenti e proiezioni dedicate |
