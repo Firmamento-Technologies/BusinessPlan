@@ -8,7 +8,7 @@
 > 2. **Riformulato** il modello di business: Firmamento è il **contesto che trasforma giovani ricercatori in imprenditori** (appartenenza, fiducia, alleggerimento degli ostacoli tramite centralizzazione di burocrazia e relazioni esterne).
 > 3. **Ancorata la governance ai regolamenti interni** approvati il 07/11/2025 (Apparati Esecutivi, Elezioni, Ammissione/Uscita soci, Ristorni) e introdotto il **Fondo F.A.S.** come motore del venture building (criticità #1, #2, #3). **DOPE Hubs** ridotto a semplice citazione. L'evoluzione **coop + SRL** ha il meccanismo pronto (F.A.S.) ma lo **scorporo di Fibonacci resta una decisione aperta** (#4).
 > 4. **Aggiunto** come prodotto scalabile la suite **Fibonacci** (cartella clinica / EMR per la sanità), già live sul modulo Medicina Estetica (criticità #9).
-> 5. **Rielaborato** il conto economico triennale, il MOL, il break-even e lo stato patrimoniale per integrare i ricavi ricorrenti SaaS di Fibonacci, con costi realistici (#6, #7).
+> 5. **Rielaborato** il conto economico triennale, MOL, break-even e stato patrimoniale con i ricavi ricorrenti SaaS e costi realistici; aggiunti **unit economics** (CAC/LTV/churn), **TAM/SAM/SOM**, **P&L per prodotto**, **roadmap** e **capitalizzazione del software (OIC 24)** (#5, #6, #7, #9).
 > 6. **Riclassificato** il contributo Coopfond (quota asset → risconti passivi; quota R&D → voce A5) per coerenza contabile (#8).
 > 7. In **Appendice** una tabella che mappa le 9 criticità della nota 11/05/2026 sulle modifiche introdotte.
 
@@ -52,7 +52,7 @@
 |---|---|---|---|
 | Fatturato da mercato (EUR) | 85.000 | 188.000 | 455.000 |
 
-### Legale rappresentante / Delegato rapporti con Columbus
+### Legale rappresentante
 
 | Campo | Dettaglio |
 |---|---|
@@ -198,6 +198,14 @@ Modellazione fluidodinamica computazionale per progettazione e ottimizzazione, s
 
 **Perché è scalabile (e perché conta per questo BP):** una volta sviluppato il core, ogni nuovo studio cliente è ricavo ricorrente ad alto margine, senza incremento proporzionale dei costi. Le 5 specialità in co-design replicano lo stesso motore su nuovi mercati verticali con costo marginale ridotto. È l'opposto della commessa di consulenza (non scalabile, vincolata alle ore-uomo): è l'asset che dà continuità imprenditoriale e scalabilità di medio-lungo periodo.
 
+**Roadmap di prodotto (validazione e crescita):**
+
+| Periodo | Fibonacci (Healthcare) | H.A.L.E. (Aerospace R&D) |
+|---|---|---|
+| Anno 1 | Consolidamento modulo Estetica (live); avvio co-design Dermatologia e Psicologia | Prototipo e primi test di volo/payload |
+| Anno 2 | Rilascio Dermatologia e Psicologia; co-design Nutrizione e Ortopedia; primi clienti multi-sede (piano Clinica) | Validazione sperimentale; allineamento normativo ENAC/EASA |
+| Anno a regime | Rilascio Nutrizione, Ortopedia, Oculistica; integrazioni FSE 2.0; valutazione mercati esteri | Dimostratore e ricerca partner/bandi per industrializzazione |
+
 #### PROGETTO R&D — H.A.L.E. Piattaforma Stratosferica *(Hub: Aerospace)*
 
 | Aspetto | Dettaglio |
@@ -229,19 +237,19 @@ Firmamento combina **ricavi da progetto** (servizi, *value-based pricing*) e **r
 | Clinica | 749 | Clinica strutturata, multi-sede |
 | Enterprise | da 1.999 | Network, catene, gruppi medici |
 
-Trial 14 giorni gratuito (senza carta), garanzia *money-back* 90 giorni sui piani annuali, canone interamente deducibile. **Programma Fondatori:** i primi 50 studi ottengono uno sconto del 30% *grandfathered* perpetuo.
-
-> *Nota interna:* i materiali di prodotto contengono al momento due livelli di prezzo non allineati (la pagina prezzi indica € 149–1.999/mese; alcune FAQ riportano € 39–149/mese). Le proiezioni di questo BP adottano il listino a 4 fasce e un ARPA prudenziale (vedi sotto). **Da consolidare un unico listino ufficiale.**
+Trial 14 giorni gratuito (senza carta), garanzia *money-back* 90 giorni sui piani annuali, canone interamente deducibile. **Programma Fondatori:** i primi 50 studi ottengono uno sconto del 30% *grandfathered* perpetuo. Questo è il listino ufficiale a 4 fasce adottato nelle proiezioni del presente BP.
 
 **Distribuzione dei ricavi da mercato — Anno 1 (€ 85.000):**
 
-| Linea di business | Ricavi previsti (€) | Peso % | Note pipeline |
+| Linea di business | Ricavi obiettivo (€) | Peso % | Base di stima |
 |---|---|---|---|
 | Sviluppo modelli AI | 35.000 | 41% | 3–4 commesse Private RAG/automazione per PMI |
 | Simulazione CFD | 25.000 | 29% | 5–6 scenari fluidodinamici industriali/aerospace |
 | Manufacturing 3D | 10.000 | 12% | ~200 ore di prototipazione/parti tecniche |
 | **Fibonacci SaaS** | **15.000** | **18%** | ramp-up abbonamenti (vedi modello sotto) |
 | **TOTALE** | **85.000** | **100%** | |
+
+> I valori dell'Anno 1 sono **obiettivi di vendita**, non commesse già firmate: rappresentano la capacità produttiva installata (workstation, stampanti, team) tradotta in target prudenti sul mercato indirizzabile. La pipeline contrattualizzata sarà documentata man mano che le trattative si chiuderanno.
 
 **Modello abbonamenti Fibonacci (driver del ricavo SaaS):**
 
@@ -254,6 +262,20 @@ Trial 14 giorni gratuito (senza carta), garanzia *money-back* 90 giorni sui pian
 | ARR run-rate a fine anno (€) | 30.000 | 125.000 | 414.000 |
 
 ARPA prudenziale (mix orientato a Solo Pro/Studio, sconto Fondatori nel primo periodo). Le 148 cliniche a regime sono una frazione marginale del mercato potenziale italiano (decine di migliaia di studi tra estetica, dermatologia e le altre specialità in co-design).
+
+**Unit economics target di Fibonacci (SaaS).** La sostenibilità di un SaaS dipende dal rapporto tra valore del cliente nel tempo (LTV) e costo per acquisirlo (CAC):
+
+| Metrica | Valore target | Note |
+|---|---|---|
+| ARPA media | € 200/mese | mix Solo Pro/Studio |
+| Margine lordo | ~82% | al netto di cloud (Hetzner) e AI inference (Mistral) |
+| Churn annuo (logo) | ~12% | switching cost elevati in ambito EMR; vita media ~5 anni |
+| **LTV** | **~€ 7.900** | ARPA × 12 × margine × 4 anni (prudenziale) |
+| **CAC** | **~€ 1.200** | vendita founder-led + content + canale partner |
+| **LTV / CAC** | **~6,5×** | sopra la soglia di riferimento (3×) |
+| **Payback CAC** | **~8 mesi** | < 12 mesi = sano |
+
+Valori *target* sulla coorte Fondatori, da validare sul campo. Il churn basso tipico dell'EMR (il medico non cambia cartella clinica con leggerezza) e l'alto margine lordo del SaaS sono i due driver che rendono il modello scalabile e cumulativo: ogni nuovo studio acquisito resta e si somma ai precedenti.
 
 ### B.3 Contesto competitivo
 
@@ -269,6 +291,16 @@ ARPA prudenziale (mix orientato a Solo Pro/Studio, sconto Fondatori nel primo pe
 | HAPS globale 2024 → 2030 | $ 99 mln → $ 210–240 mln | CAGR 16–19,8% | MarkNtel / Mordor Intelligence |
 
 **Mercato di Fibonacci — sanità privata e digitalizzazione clinica.** Il software medico italiano è bloccato tra gestionali storici (design fermo agli anni 2000, pensati per la burocrazia amministrativa) e soluzioni internazionali che ignorano consensi informati, catalogo AIFA e normativa italiana. Fibonacci si posiziona nel mezzo: costruito in Italia per la clinica reale, ma su standard internazionali (FHIR R4, eIDAS) e tecnologie moderne (AI, body map, cifratura). Leva commerciale forte sul **rischio legale del consenso informato**: la Cassazione (sent. 26104/2022) documenta risarcimenti da € 50.000 a € 700.000 per vizio del consenso — a fronte di un canone Fibonacci Studio di ~€ 4.188/anno.
+
+**Dimensionamento del mercato di Fibonacci (TAM / SAM / SOM).** Stima bottom-up sul numero di studi/professionisti privati italiani nelle specialità target, a un valore medio di ~€ 2.400/anno per studio (ARPA × 12):
+
+| Livello | Perimetro | Studi (stima) | Valore annuo |
+|---|---|---|---|
+| **TAM** | Tutti gli studi specialistici privati italiani digitalizzabili | ~150.000 | ~€ 360 mln |
+| **SAM** | Le 6 specialità servite/in co-design (estetica, dermatologia, nutrizione, psicologia, ortopedia, oculistica) | ~30.000 | ~€ 72 mln |
+| **SOM (Anno 3)** | Obiettivo realistico a regime (148 studi paganti) | ~150 | ~€ 0,4 mln |
+
+Il SOM a 3 anni è **circa lo 0,5% del SAM**: l'obiettivo non richiede di "dominare" il mercato, ma di intercettarne una frazione minima, lasciando ampio spazio di crescita oltre il piano. *(Stime di settore da validare; il modulo Estetica è già live, gli altri in co-design.)*
 
 #### Contesto startup e incentivi
 
@@ -502,6 +534,46 @@ Il contributo incassato nel I trimestre crea una riserva-cuscinetto per l'intera
 
 **Costi R&D progetti proprietari (H.A.L.E.):** € 12.000 (Anno 1) — coperti dalla quota di contributo Coopfond rilevata in A5.
 
+### D.10 Conto economico per prodotto (vista gestionale)
+
+Allocazione gestionale dei costi diretti per linea, per evidenziare la **contribuzione** di ciascun prodotto (è una riclassifica interna del conto economico consolidato D.2, non uno schema civilistico):
+
+**Fibonacci (SaaS) — mini P&L:**
+
+| Voce | Anno 1 | Anno 2 | Anno a regime |
+|---|---|---|---|
+| Ricavi SaaS | 15.000 | 80.000 | 280.000 |
+| (−) Cloud + AI inference (~17%) | (2.500) | (13.000) | (48.000) |
+| **Margine lordo** | **12.500** | **67.000** | **232.000** |
+| (−) Sviluppo prodotto (quota team) | (12.000) | (28.000) | (70.000) |
+| (−) Marketing / acquisizione (CAC) | (5.000) | (15.000) | (35.000) |
+| **Contribuzione di prodotto** | **(4.500)** | **24.000** | **127.000** |
+
+La curva è la tipica **J-curve** del SaaS: l'Anno 1 è in investimento (sviluppo + acquisizione clienti, coperto dalla liquidità del contributo), il prodotto va in positivo dall'Anno 2 e genera la quota maggiore di marginalità a regime.
+
+**Servizi (AI + CFD + 3D) — contribuzione aggregata:**
+
+| Voce | Anno 1 | Anno 2 | Anno a regime |
+|---|---|---|---|
+| Ricavi servizi | 70.000 | 108.000 | 175.000 |
+| (−) Materie/consumi + costi diretti | (8.000) | (12.000) | (22.000) |
+| (−) Quota lavoro soci su commesse | (28.000) | (55.000) | (105.000) |
+| **Contribuzione servizi** | **34.000** | **41.000** | **48.000** |
+
+I servizi finanziano la struttura e l'investimento iniziale in Fibonacci; Fibonacci diventa progressivamente il motore di marginalità e scalabilità.
+
+> Le contribuzioni di prodotto sono **al lordo dei costi di struttura non allocati** (G&A, quote di personale e marketing non attribuibili a una singola linea: ~€ 2k/5k/30k di personale e ~€ 2k/5k/13k di marketing nei tre anni) e delle voci legate ai contributi (A5/B.6): non sommano quindi all'EBIT consolidato di D.2, ma ne illustrano la marginalità per linea.
+
+### D.11 Capitalizzazione del software proprietario (OIC 24)
+
+I costi di sviluppo del software Fibonacci, sostenuti internamente, presentano i requisiti per la **capitalizzazione come immobilizzazione immateriale** ai sensi dell'OIC 24 (fattibilità tecnica, intenzione e capacità di completamento e uso, benefici economici futuri attendibili, misurabilità dei costi, risorse adeguate). Trattamento adottato:
+
+- I costi di sviluppo capitalizzabili sono iscritti tra le **immobilizzazioni immateriali** ("Costi di sviluppo — software Fibonacci"), con contropartita la voce **A4 del conto economico** (incrementi di immobilizzazioni per lavori interni).
+- Ammortamento lungo la vita utile stimata (max 5 anni salvo vita utile dimostrabile superiore — OIC 24).
+- Stima prudenziale del valore capitalizzato al 31/12 Anno 1: **~€ 20.000** (netto ammortamento del primo periodo), che rende finalmente visibile a bilancio l'**asset proprietario** prima assente.
+
+> L'effetto è una rappresentazione patrimoniale più fedele (l'IP sviluppato diventa attivo) e una migliore correlazione costi-ricavi. Per prudenza e comparabilità, i prospetti D.2 e D.8 sono presentati **al lordo di tale capitalizzazione**: la sua applicazione incrementerebbe sia le immobilizzazioni immateriali sia il risultato d'esercizio dell'importo capitalizzato (voce A4). L'importo definitivo sarà determinato in sede di bilancio con il dettaglio analitico delle ore/risorse dedicate allo sviluppo.
+
 ---
 
 ## RASSEGNA STAMPA E RICONOSCIMENTI
@@ -560,11 +632,11 @@ Il risultato è un ciclo virtuoso: **persone → contesto → competenze → pro
 | 2 | 9 soci / CdA 5 / uscite soci | *Regolamento Organizzativo* + *Criteri di Ammissione*: recesso (art. 2532 c.c.), esclusione con contraddittorio, **rimborso quota entro 180 gg** (art. 2535 c.c.), impegno minimo di lavoro; rinnovo CdA scaglionato (A.1) |
 | 3 | Venture building poco strutturato | **Fondo F.A.S.**: regia esecutiva, criteri di selezione e due diligence, investimenti in NewCo, equity con golden share/mission lock/vesting, fondo rotativo (A.1) |
 | 4 | Evoluzione del modello (coop + SRL) | Meccanismo **già pronto** (Fondo F.A.S. → NewCo SRL/SpA partecipate). **Decisione di scorporo di Fibonacci ancora aperta**, da valutare su traction/capitale (A.1) |
-| 5 | Analisi di mercato generica | Aggiunto mercato EMR/sanità, FSE 2.0, leva legale del consenso; mantenute fonti su AI/CFD/3D/HAPS |
-| 6 | Mancano figure trasversali; costi marketing/personale sottostimati | RAE consente l'inserimento di figure esterne (commerciale/marketing, PM Fibonacci, CFO); marketing e personale riportati a livelli realistici (C.1, D.2, D.9) |
-| 7 | Aspetti economico-finanziari da rivedere | Conto economico, MOL, BEP, SP rielaborati con ricavi SaaS e costi realistici |
-| 8 | Natura contabile del contributo Coopfond | Riclassificato: quota asset → risconti passivi; quota R&D → A5 (D.1, D.2, D.8) |
-| 9 | Focus sui prodotti scalabili | **Fibonacci** descritto come prodotto SaaS scalabile con mercato, pricing, modello abbonamenti e proiezioni dedicate |
+| 5 | Analisi di mercato generica | Mercato EMR/sanità, FSE 2.0, leva legale del consenso; **TAM/SAM/SOM bottom-up** (B.3); fonti su AI/CFD/3D/HAPS |
+| 6 | Mancano figure trasversali; costi marketing/personale sottostimati | RAE consente figure esterne (commerciale/marketing, PM Fibonacci, CFO); marketing e personale a livelli realistici (C.1, D.2, D.9) |
+| 7 | Aspetti economico-finanziari da rivedere | CE, MOL, BEP, SP rielaborati; **unit economics SaaS** (B.2), **P&L per prodotto** (D.10), **capitalizzazione software OIC 24** (D.11) |
+| 8 | Natura contabile del contributo Coopfond | Confermato **fondo perduto**; riclassificato: quota asset → risconti passivi; quota R&D → A5 (D.1, D.2, D.8) |
+| 9 | Focus sui prodotti scalabili | **Fibonacci** con mercato, pricing, abbonamenti, **unit economics, roadmap e P&L dedicato** |
 
 ---
 
