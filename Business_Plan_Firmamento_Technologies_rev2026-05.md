@@ -202,21 +202,30 @@ Modellazione fluidodinamica computazionale per progettazione e ottimizzazione, s
 
 | Periodo | Fibonacci (Healthcare) | H.A.L.E. (Aerospace R&D) |
 |---|---|---|
-| Anno 1 | Consolidamento modulo Estetica (live); avvio co-design Dermatologia e Psicologia | Prototipo e primi test di volo/payload |
-| Anno 2 | Rilascio Dermatologia e Psicologia; co-design Nutrizione e Ortopedia; primi clienti multi-sede (piano Clinica) | Validazione sperimentale; allineamento normativo ENAC/EASA |
-| Anno a regime | Rilascio Nutrizione, Ortopedia, Oculistica; integrazioni FSE 2.0; valutazione mercati esteri | Dimostratore e ricerca partner/bandi per industrializzazione |
+| Anno 1 | Consolidamento modulo Estetica (live); avvio co-design Dermatologia e Psicologia | Pilota VTOL a Pentema (telemedicina, emergenza, monitoraggio); autorizzazione SORA/ENAC |
+| Anno 2 | Rilascio Dermatologia e Psicologia; co-design Nutrizione e Ortopedia; primi clienti multi-sede (piano Clinica) | Scale-up SNAI su nuove aree; avvio R&D HALE stratosferico subscale |
+| Anno a regime | Rilascio Nutrizione, Ortopedia, Oculistica; integrazioni FSE 2.0; valutazione mercati esteri | Prototipo HALE stratosferico; servizi EO/NTN; ricerca partner e bandi |
 
-#### PROGETTO R&D: H.A.L.E. Piattaforma Stratosferica *(Hub: Aerospace)*
+#### PROGETTO R&D: H.A.L.E. Piattaforma aerea per le Aree Interne *(Hub: Aerospace)*
+
+H.A.L.E. è il progetto di Ricerca e Sviluppo di Firmamento per portare **connettività, telemedicina e monitoraggio del territorio nelle Aree Interne** italiane (territori a bassa densità, orografia complessa, divario digitale strutturale). È concepito come **erogatore di servizi**, non come venditore di velivoli, ed è supportato da uno studio di fattibilità completo redatto secondo l'art. 41 D.Lgs. 36/2023 e il NASA Systems Engineering Handbook. Il progetto è **vincitore del bando NewStartup Tech Liguria** (dicembre 2025).
+
+Adotta una **strategia duale** a riduzione del rischio:
+
+- **Pilota VTOL (near-term, ~12 mesi).** Piattaforma commerciale a decollo verticale (TRL 8-9) con payload di osservazione (EO/IR) e telecomunicazioni. Caso pilota: frazione di **Pentema (Torriglia, Genova)**, area SNAI 2021-2027. Casi d'uso: connettività di emergenza e **telemedicina**, monitoraggio del rischio idrogeologico, *early detection* antincendio, mappatura di infrastrutture rurali. Rete di utenti-pilota: **10 cooperative Legacoop** (Fabrica capofila).
+- **HALE stratosferico (R&D, 24-48 mesi).** Piattaforma *High Altitude Long Endurance* a **propulsione solare**: apertura alare 25-30 m, quota operativa 18-21 km, endurance target ≥ 30 giorni, per osservazione persistente del territorio e connettività **NTN 5G**.
 
 | Aspetto | Dettaglio |
 |---|---|
-| Tipologia | Pseudo-satellite stratosferico (HAPS) |
-| Quota operativa | ~20 km (stratosfera) |
-| Copertura | Raggio > 500 km · Latenza < 20 ms · Banda L-Band |
-| Finanziamento | € 50.000 a fondo perduto da Coopfond (Fonte: ANSA, 11/12/2025) |
-| Riconoscimenti | Best Newcomer Award, UAS Challenge 2025 |
+| Applicazione | Connettività, telemedicina e monitoraggio per le Aree Interne |
+| Pilota VTOL | TRL 8-9, payload EO/IR + telecom; caso pilota Pentema (Torriglia, GE), area SNAI |
+| HALE stratosferico | Solare, apertura 25-30 m, quota 18-21 km, endurance ≥ 30 giorni, NTN 5G |
+| Modello | Service-only (erogazione di servizi, non vendita di velivoli) |
+| Riconoscimento | Vincitore del bando **NewStartup Tech Liguria** (dicembre 2025) |
+| Finanziamento | € 50.000 a fondo perduto da Coopfond; mix con Regione Liguria (FESR) e PNRR |
+| Sinergia con Fibonacci | La connettività in area remota abilita la **telemedicina** con la cartella clinica Fibonacci |
 
-*Contesto:* mercato HAPS a $ 99 mln nel 2024, proiezione $ 210–240 mln entro il 2030 (CAGR 16–19,8%, MarkNtel / Mordor Intelligence). La Strategia Nazionale Aree Interne (SNAI) identifica 72 aree, 1.077 comuni e ~2,07 mln di abitanti con divario digitale; il PNRR ha stanziato € 3,8 mld per "Italia a 1 Giga". Le piattaforme stratosferiche sono complementari alle infrastrutture terrestri per le aree a fallimento di mercato. H.A.L.E. è il progetto R&D che agisce da vetrina tecnologica e da opzione di crescita a lungo termine.
+*Contesto:* la Strategia Nazionale Aree Interne (SNAI) identifica 72 aree, 1.077 comuni e ~2,07 mln di abitanti con divario digitale; il PNRR ha stanziato € 3,8 mld per "Italia a 1 Giga". Le piattaforme aeree sono complementari alle infrastrutture terrestri nelle aree a fallimento di mercato. Lo studio di fattibilità adotta un approccio prudente: il pilota VTOL è la priorità near-term, mentre l'HALE stratosferico resta R&D a lungo termine. Mercato HAPS globale a $ 99 mln (2024), proiezione $ 210-240 mln entro il 2030 (CAGR 16-19,8%, MarkNtel / Mordor Intelligence).
 
 ### B.2 Mix di prodotto e prezzi
 
@@ -311,7 +320,7 @@ Le startup innovative italiane sono 11.090 a gennaio 2026 (−4,2%). Gli incenti
 - **Competenze multidisciplinari integrate**: barriera alta; l'integrazione di AI, healthcare, manufacturing e simulazione in un unico soggetto richiede competenze rare, che la cooperativa aggrega e trattiene.
 - **Prodotto SaaS sanitario conforme**: barriera alta per Fibonacci: integrare FHIR R4, consensi normativi, eIDAS, GDPR e AI responsabile richiede competenza rara e tempo; chi compra un EMR cambia raramente fornitore (alti switching cost → retention).
 - **Costi di avviamento**: barriera media; contenuti grazie a tecnologie open-source e struttura cooperativa.
-- **Relazioni e reputazione**: barriera media; mitigata da Legacoop Liguria, Coopfond, copertura stampa (ANSA, Repubblica, Telenord, Genova24, Primo Canale) e Best Newcomer Award UAS Challenge 2025.
+- **Relazioni e reputazione**: barriera media; mitigata da Legacoop Liguria, Coopfond, copertura stampa (ANSA, La Repubblica, Telenord, Genova24, Primo Canale) e dall'aggiudicazione del bando NewStartup Tech Liguria (2025).
 
 #### Principali concorrenti identificati
 
@@ -581,14 +590,14 @@ I costi di sviluppo del software Fibonacci, sostenuti internamente, presentano i
 | Testata | Tipo | Dettaglio |
 |---|---|---|
 | ANSA | Agenzia nazionale | Finanziamento Coopfond € 50.000 per H.A.L.E. (11/12/2025) |
-| La Repubblica | Quotidiano nazionale | |
+| La Repubblica (Genova) | Quotidiano | H.A.L.E.: un drone per la telemedicina e la comunicazione di emergenza nelle aree interne (11/12/2025) |
 | Legacoop nazionale | Comunicazione istituzionale | |
 | Coopfond | Comunicazione istituzionale | |
 | Telenord | Emittente TV regionale | |
 | Genova24 | Testata online locale | |
 | Primo Canale | Emittente TV regionale | |
 
-Riconoscimento: **Best Newcomer Award, UAS Challenge 2025** (progetto H.A.L.E.).
+Riconoscimento: **vincitore del bando NewStartup Tech Liguria** (dicembre 2025, progetto H.A.L.E.).
 
 ---
 
