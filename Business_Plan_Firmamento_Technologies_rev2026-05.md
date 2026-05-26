@@ -10,7 +10,6 @@
 > 4. **Aggiunto** come prodotto scalabile la suite **Fibonacci** (cartella clinica / EMR per la sanità), già live sul modulo Medicina Estetica (criticità #9).
 > 5. **Rielaborato** il conto economico triennale, MOL, break-even e stato patrimoniale con i ricavi ricorrenti SaaS e costi realistici; aggiunti **unit economics** (CAC/LTV/churn), **TAM/SAM/SOM**, **P&L per prodotto**, **roadmap** e **capitalizzazione del software (OIC 24)** (#5, #6, #7, #9).
 > 6. **Riclassificato** il contributo Coopfond (quota asset → risconti passivi; quota R&D → voce A5) per coerenza contabile (#8).
-> 7. In **Appendice** una tabella che mappa le 9 criticità della nota 11/05/2026 sulle modifiche introdotte.
 
 ---
 
@@ -25,8 +24,8 @@
 | Data iscrizione Registro Imprese | 07/10/2025 |
 | Data inizio attività | 03/11/2025 |
 | Data iscrizione Startup Innovativa | 04/03/2026 |
-| Soci cooperatori | 9 soci fondatori |
-| Capitale sociale | € 225,00 (9 azioni × € 25,00 nominali, capitale variabile) |
+| Soci cooperatori | 15 soci (9 fondatori + 6 ammessi) |
+| Capitale sociale | € 375,00 (15 azioni × € 25,00 nominali, capitale variabile) |
 | Codice ATECO prevalente | 74.14.09 — Altre attività di progettazione specializzata N.C.A. |
 | P.IVA / C.F. | 03038500991 |
 | REA | GE — 528629 |
@@ -34,7 +33,7 @@
 | PEC | firmamentotechnologies@pec.it |
 | Banca | Banco BPM S.p.A., filiale Genova Via Galata 2480 — Conto Cooperative SMALL |
 | Durata società | Fino al 31/12/2100 |
-| Numero di addetti | 0 dipendenti (9 soci lavoratori cooperativi) |
+| Numero di addetti | 0 dipendenti (15 soci lavoratori cooperativi) |
 
 ### Dimensione degli investimenti
 
@@ -91,7 +90,7 @@ La cooperativa è iscritta come Startup Innovativa ai sensi dell'art. 25 D.L. 17
 
 #### Compagine societaria
 
-La cooperativa conta 9 soci cooperatori:
+La cooperativa conta 15 soci cooperatori:
 
 | # | Nome e Cognome | Ruolo | Competenze verificate |
 |---|---|---|---|
@@ -104,8 +103,14 @@ La cooperativa conta 9 soci cooperatori:
 | 7 | Riccardo Simone | Socio cooperatore | Fisica |
 | 8 | David Hermes | Socio cooperatore | Cyber Sicurezza e Sviluppo Web |
 | 9 | Gleisson Simone Ferrero | Socio cooperatore | Informatica, Analisi dati |
+| 10 | Giacomo Pandolfo | Socio cooperatore | Ingegneria Meccanica · Stampa 3D / Additive Manufacturing |
+| 11 | Luigi Thea | Socio cooperatore | Ingegneria Elettronica |
+| 12 | Federico Fadelli | Socio cooperatore | Economia e Ingegneria Aerospaziale |
+| 13 | Edoardo Maestri | Socio cooperatore | Ingegneria Meccanica |
+| 14 | Luca Bricarello | Socio cooperatore | Ingegneria Robotica |
+| 15 | Vittoria De Marco | Socia cooperatrice | Ingegneria Meccanica |
 
-Cooperativa a mutualità prevalente, **voto per testa** (1 socio = 1 voto) indipendentemente dal capitale conferito. Ogni socio fondatore ha sottoscritto 1 azione da € 25,00 nominali (totale € 225 capitale sociale). Nessun Collegio Sindacale (non ricorrono i presupposti art. 2477 c.c.). CdA di 5 membri con mandato fino al bilancio 31/12/2027.
+Cooperativa a mutualità prevalente, **voto per testa** (1 socio = 1 voto) indipendentemente dal capitale conferito. Ogni socio sottoscrive almeno 1 azione da € 25,00 nominali (15 azioni × € 25,00 = € 375 di capitale sociale). Nessun Collegio Sindacale (non ricorrono i presupposti art. 2477 c.c.). CdA di 5 membri con mandato fino al bilancio 31/12/2027.
 
 #### Governance, regolamenti interni e Fondo F.A.S.
 
@@ -117,7 +122,7 @@ L'Assemblea dei soci ha approvato il **07/11/2025** un corpo organico di **regol
 
 **Ingressi e uscite dei soci** sono disciplinati dal *Regolamento Organizzativo Generale* e dal *Regolamento Criteri di Ammissione*: ammissione su domanda al CdA (delibera entro 60 gg, *mission-fit*, **impegno minimo di partecipazione lavorativa** per evitare soci solo nominali); **recesso** ex art. 2532 c.c.; **esclusione** con contestazione scritta e contraddittorio (cause tipizzate: inattività mutualistica, concorrenza non autorizzata, sviamento di opportunità, violazione di riservatezza/IP); **rimborso della quota** sul bilancio dell'esercizio di cessazione, entro 180 gg dall'approvazione (art. 2535 c.c.). Riserve indivisibili e ristorni già capitalizzati restano alla cooperativa.
 
-**Categorie di soci e capitale.** Oltre a soci lavoratori e fruitori, il regolamento prevede i **soci finanziatori/sovventori** (art. 2526 c.c., art. 4 L. 59/1992): è la via ordinata per **aprire il capitale a investitori** (business angel, partner) senza snaturare la cooperativa (voti dei finanziatori entro 1/3). Costituisce la leva prevista per rafforzare il capitale sociale, oggi limitato a € 225.
+**Categorie di soci e capitale.** Oltre a soci lavoratori e fruitori, il regolamento prevede i **soci finanziatori/sovventori** (art. 2526 c.c., art. 4 L. 59/1992): è la via ordinata per **aprire il capitale a investitori** (business angel, partner) senza snaturare la cooperativa (voti dei finanziatori entro 1/3). Costituisce la leva prevista per rafforzare il capitale sociale, ancora contenuto (€ 375).
 
 **Remunerazione mutualistica.** Il *Regolamento Ristorni* (art. 2545-sexies c.c.) distribuisce ai soci il vantaggio mutualistico in proporzione a quantità e qualità del lavoro/scambio, entro il tetto del 30% dei trattamenti retributivi (L. 142/2001), con possibilità di capitalizzazione.
 
@@ -145,13 +150,14 @@ I soci condividono l'obiettivo di **colmare il divario strutturale tra ricerca a
 
 #### Know-how dei soci
 
-- **Intelligenza Artificiale e Robotica** — architetture RAG, sviluppo agenti AI, sistemi anti-allucinazione, NLP avanzato (E. Giordano, C. Sanguineti)
-- **Ingegneria Aerospaziale e CFD** — piattaforme UAV, aerodinamica, propulsione, simulazioni CFD OpenFOAM, CAD (S. Raggi)
+- **Intelligenza Artificiale e Robotica** — architetture RAG, sviluppo agenti AI, sistemi anti-allucinazione, NLP avanzato, ingegneria robotica (E. Giordano, C. Sanguineti, L. Bricarello)
+- **Ingegneria Aerospaziale e CFD** — piattaforme UAV, aerodinamica, propulsione, simulazioni CFD OpenFOAM, CAD (S. Raggi, F. Fadelli)
+- **Ingegneria Meccanica, Manufacturing e Additive Manufacturing** — progettazione meccanica e tecnologie FDM con materiali tecnici (PLA, PETG, ABS, ASA, PA-CF, PA-GF) (G. Pandolfo, E. Maestri, V. De Marco)
+- **Ingegneria Elettronica e Hardware** — progettazione elettronica e sistemi embedded (L. Thea)
 - **Earth Observation e Analisi Dati** — telerilevamento, elaborazione dati geospaziali (C. Sanguineti)
 - **Cyber Sicurezza e Web** — sicurezza informatica, sviluppo web full-stack (V. Passalacqua, D. Hermes)
 - **Informatica e Analisi Dati** — sviluppo software, data engineering (G. S. Ferrero)
-- **Amministrazione e Business Development** — gestione aziendale, sviluppo commerciale, relazioni istituzionali (L. Di Domenico, C. D'Alessandro)
-- **Manufacturing e Additive Manufacturing** — tecnologie FDM con materiali tecnici (PLA, PETG, ABS, ASA, PA-CF, PA-GF)
+- **Amministrazione, Economia e Business Development** — gestione aziendale, economia, sviluppo commerciale, relazioni istituzionali (L. Di Domenico, C. D'Alessandro, F. Fadelli)
 
 ---
 
@@ -343,7 +349,7 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 | Dato | Dettaglio |
 |---|---|
-| Soci cooperatori | 9 |
+| Soci cooperatori | 15 |
 | Di cui nel CdA | 5 (Di Domenico, Raggi, Giordano, Sanguineti, D'Alessandro) |
 | Sede operativa | Via Brigata Liguria 105R, Genova |
 
@@ -388,9 +394,9 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 | Fonte | Importo (EUR) | Note |
 |---|---|---|
-| Capitale sociale (conferimenti soci) | 225 | Da visura camerale |
+| Capitale sociale (conferimenti soci) | 375 | 15 azioni × € 25,00 |
 | Contributo Coopfond | 50.000 | Fonte: ANSA, 11/12/2025 |
-| **TOTALE FONTI** | **50.225** | |
+| **TOTALE FONTI** | **50.375** | |
 
 **Fabbisogno operativo:**
 
@@ -400,7 +406,7 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | Capitale circolante netto (primi ~6 mesi: affitto, utenze, materiali, **go-to-market Fibonacci**) | 14.000 |
 | **TOTALE FABBISOGNO OPERATIVO** | **36.000** |
 
-La differenza tra fonti (€ 50.225) e fabbisogno (€ 36.000), pari a **€ 14.225**, è accantonata come **Riserva di Liquidità Strategica** per gestire i tempi di incasso (rilevanti su commesse PA) e accelerare lo sviluppo dei prodotti proprietari senza ricorso a credito esterno.
+La differenza tra fonti (€ 50.375) e fabbisogno (€ 36.000), pari a **€ 14.375**, è accantonata come **Riserva di Liquidità Strategica** per gestire i tempi di incasso (rilevanti su commesse PA) e accelerare lo sviluppo dei prodotti proprietari senza ricorso a credito esterno.
 
 **Trattamento contabile del contributo Coopfond (riclassificazione).** In coerenza con OIC 16/24 e con le osservazioni della nota di revisione (criticità #8), il contributo di € 50.000 — **a fondo perduto** — è ripartito secondo la destinazione:
 
@@ -471,9 +477,9 @@ Strategia improntata all'indipendenza dal debito bancario. **Debiti verso banche
 
 | Fonte | Importo | Destinazione |
 |---|---|---|
-| Capitale sociale versato | € 225 | Spese amministrative e di costituzione |
+| Capitale sociale versato | € 375 | Spese amministrative e di costituzione |
 | Contributo Coopfond | € 50.000 | Asset tecnologici (€ 19.000 → risconti passivi) e R&D H.A.L.E. (€ 31.000 → A5) |
-| **TOTALE FONTI** | **€ 50.225** | |
+| **TOTALE FONTI** | **€ 50.375** | |
 
 La dotazione tecnica (stampanti 3D, workstation CFD, server AI) è acquisita con quota del contributo, senza gravare sulla liquidità dei soci. La quota prevalente sostiene la R&D H.A.L.E. (sensoristica, materiali compositi, test). Crescita organica: investimenti straordinari coperti da fondi mutualistici/agevolati, gestione corrente sostenuta dal flusso di cassa di commesse e abbonamenti.
 
@@ -481,10 +487,10 @@ La dotazione tecnica (stampanti 3D, workstation CFD, server AI) è acquisita con
 
 | Periodo | Entrate | Uscite | Saldo periodo | Saldo progressivo |
 |---|---|---|---|---|
-| I Trim. (avvio) | € 50.225 (cap. soc. + Coopfond) | € 4.000 (notarili, iscrizioni, allestimento) | + € 46.225 | € 46.225 |
-| Mesi 4–8 (operatività) | € 38.000 (acconti AI/CFD/3D + primi abbonamenti Fibonacci) | € 50.000 (€ 22k asset · € 16k compensi · € 12k gestione/marketing) | − € 12.000 | € 34.225 |
-| Mesi 9–12 (consolidamento) | € 52.000 (saldi commesse, abbonamenti ricorrenti, milestone H.A.L.E.) | € 41.000 (compensi, gestione, R&D) | + € 11.000 | € 45.225 |
-| **TOTALE ANNUALE** | **€ 140.225** | **€ 95.000** | **+ € 45.225** | **€ 45.225** |
+| I Trim. (avvio) | € 50.375 (cap. soc. + Coopfond) | € 4.000 (notarili, iscrizioni, allestimento) | + € 46.375 | € 46.375 |
+| Mesi 4–8 (operatività) | € 38.000 (acconti AI/CFD/3D + primi abbonamenti Fibonacci) | € 50.000 (€ 22k asset · € 16k compensi · € 12k gestione/marketing) | − € 12.000 | € 34.375 |
+| Mesi 9–12 (consolidamento) | € 52.000 (saldi commesse, abbonamenti ricorrenti, milestone H.A.L.E.) | € 41.000 (compensi, gestione, R&D) | + € 11.000 | € 45.375 |
+| **TOTALE ANNUALE** | **€ 140.375** | **€ 95.000** | **+ € 45.375** | **€ 45.375** |
 
 Il contributo incassato nel I trimestre crea una riserva-cuscinetto per l'intera fase di startup. Il deficit programmato dei mesi 4–8 (anno di investimento) è interamente coperto dalla liquidità iniziale. La cooperativa chiude l'anno con ~€ 45k di giacenza, a copertura del primo semestre dell'Anno 2 e a sostegno della crescita del SaaS.
 
@@ -492,13 +498,13 @@ Il contributo incassato nel I trimestre crea una riserva-cuscinetto per l'intera
 
 | ATTIVO (Impieghi) | € | PASSIVO E NETTO (Fonti) | € |
 |---|---|---|---|
-| A) Immobilizzazioni tecniche (€ 22k − amm. € 4k) | 18.000 | A) Patrimonio netto | 7.025 |
-| B) Attivo circolante (cassa) | 45.225 | — Capitale sociale | 225 |
+| A) Immobilizzazioni tecniche (€ 22k − amm. € 4k) | 18.000 | A) Patrimonio netto | 7.175 |
+| B) Attivo circolante (cassa) | 45.375 | — Capitale sociale | 375 |
 | | | — Utile d'esercizio | 6.800 |
 | | | B) Risconti passivi (quota contributo asset residua) | 15.000 |
 | | | C) Debiti v/banche | 0 |
 | | | D) Altri debiti (tributari, fornitori, ratei) | 41.200 |
-| **TOTALE ATTIVO** | **63.225** | **TOTALE PASSIVO E NETTO** | **63.225** |
+| **TOTALE ATTIVO** | **63.375** | **TOTALE PASSIVO E NETTO** | **63.375** |
 
 > Rispetto alla versione precedente, il contributo non è più iscritto integralmente a "riserve": la quota asset figura tra i **risconti passivi** (rilasciata negli anni con gli ammortamenti) e la quota R&D è transitata a conto economico (A5) a copertura dei costi. Il prospetto è una sintesi gestionale; lo schema civilistico di dettaglio andrà redatto in sede di bilancio.
 
@@ -621,22 +627,6 @@ Il risultato è un ciclo virtuoso: **persone → contesto → competenze → pro
 | PNRR Missione Salute / FSE 2.0 | Opportunità diretta per Fibonacci (interoperabilità FHIR R4) | PNRR |
 | Crescita mercato AI +50% YoY | Vento in poppa per i servizi AI e per la dettatura clinica AI | Osservatorio AI PoliMi |
 | Cassazione 26104/2022 (consenso) | Leva commerciale per Fibonacci (rischio risarcimenti € 50k–700k) | Cassazione |
-
----
-
-## APPENDICE — Come questa revisione risponde alle criticità (nota 11/05/2026)
-
-| # | Criticità rilevata | Risposta in questa revisione |
-|---|---|---|
-| 1 | Governance poco separata da operatività/venture | 3 livelli (strategia / apparati esecutivi / team di prodotto) ancorati ai **regolamenti interni** approvati il 07/11/2025: RAE (deleghe e procure, anche a esterni), Elezioni (rinnovo scaglionato, successione), Fondo F.A.S. per le decisioni di investimento (A.1) |
-| 2 | 9 soci / CdA 5 / uscite soci | *Regolamento Organizzativo* + *Criteri di Ammissione*: recesso (art. 2532 c.c.), esclusione con contraddittorio, **rimborso quota entro 180 gg** (art. 2535 c.c.), impegno minimo di lavoro; rinnovo CdA scaglionato (A.1) |
-| 3 | Venture building poco strutturato | **Fondo F.A.S.**: regia esecutiva, criteri di selezione e due diligence, investimenti in NewCo, equity con golden share/mission lock/vesting, fondo rotativo (A.1) |
-| 4 | Evoluzione del modello (coop + SRL) | Meccanismo **già pronto** (Fondo F.A.S. → NewCo SRL/SpA partecipate). **Decisione di scorporo di Fibonacci ancora aperta**, da valutare su traction/capitale (A.1) |
-| 5 | Analisi di mercato generica | Mercato EMR/sanità, FSE 2.0, leva legale del consenso; **TAM/SAM/SOM bottom-up** (B.3); fonti su AI/CFD/3D/HAPS |
-| 6 | Mancano figure trasversali; costi marketing/personale sottostimati | RAE consente figure esterne (commerciale/marketing, PM Fibonacci, CFO); marketing e personale a livelli realistici (C.1, D.2, D.9) |
-| 7 | Aspetti economico-finanziari da rivedere | CE, MOL, BEP, SP rielaborati; **unit economics SaaS** (B.2), **P&L per prodotto** (D.10), **capitalizzazione software OIC 24** (D.11) |
-| 8 | Natura contabile del contributo Coopfond | Confermato **fondo perduto**; riclassificato: quota asset → risconti passivi; quota R&D → A5 (D.1, D.2, D.8) |
-| 9 | Focus sui prodotti scalabili | **Fibonacci** con mercato, pricing, abbonamenti, **unit economics, roadmap e P&L dedicato** |
 
 ---
 
