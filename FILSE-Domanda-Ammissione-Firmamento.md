@@ -12,9 +12,9 @@ Via Peschiera n. 16
 
 ---
 
-Il/La sottoscritto/a **Luca Di Domenico**, nato/a a **[LUOGO DI NASCITA DA CONFERMARE]** (prov. **[__]**) il **25/12/1999**, codice fiscale **DDMLCU99T25D969S**, residente a **[CITTÀ DI RESIDENZA DA CONFERMARE]** (prov. **[__]**), Via **[INDIRIZZO DI RESIDENZA DA CONFERMARE]**, CAP **[_____]**, Città **[_____]**,
+Il/La sottoscritto/a **Luca Di Domenico**, nato/a a **Genova** (prov. **GE**) il **25/12/1999**, codice fiscale **DDMLCU99T25D969S**, residente a **Genova** (prov. **GE**), Via **Costa Verde n. 4/13**, CAP **16161**, Città **Genova**,
 
-e-mail: **[EMAIL ORDINARIA DA CONFERMARE]**
+e-mail: **luca.di.domenico@firmamentotechnologies.com**
 Telefono: **3493504487**
 PEC: **luca.di.domenico@pec.it**
 
@@ -29,7 +29,7 @@ PEC: **luca.di.domenico@pec.it**
 
 **Cod. Fiscale:** 03038500991
 **P.IVA:** 03038500991
-**Codice univoco:** **[DA CONFERMARE]** (oppure PEC: firmamentotechnologies@pec.it)
+**Codice univoco:** **M5UXCR1**
 
 ---
 
@@ -41,9 +41,9 @@ PEC: **luca.di.domenico@pec.it**
 - **Sede legale:** Genova (GE), Via Brigata Liguria n. 105R, CAP 16121
 - **Sede operativa:** Genova (GE), Via Brigata Liguria n. 105R, CAP 16121
 - **PEC:** firmamentotechnologies@pec.it
-- **Mail:** info@firmamentotechnologies.com **[DA CONFERMARE]**
+- **Mail:** info@firmamentotechnologies.com
 - **Cell:** 3493504487 (Legale Rappresentante)
-- **Sito web:** https://firmamentotechnologies.com **[DA CONFERMARE]**
+- **Sito web:** https://firmamentotechnologies.com
 
 ---
 
@@ -68,13 +68,13 @@ e che tali verifiche saranno condotte in capo a:
 
 *(barrare la casella corrispondente alla propria scelta)*
 
-- [ ] di accedere ai servizi dell'incubatore di **[SEDE INCUBATORE FILSE DA CONFERMARE: Genova / Savona / La Spezia / Imperia]** con la fruizione di uno **spazio contraddistinto di mq. [____]** per l'insediamento della propria iniziativa;
+- [ ] di accedere ai servizi dell'incubatore di **Genova** con la fruizione di uno **spazio contraddistinto di mq. ____** per l'insediamento della propria iniziativa;
 
-- [ ] di accedere ai servizi dell'incubatore di **[SEDE INCUBATORE FILSE DA CONFERMARE]** con la fruizione di una **scrivania in uno spazio condiviso** per l'insediamento della propria iniziativa.
+- [X] di accedere ai servizi dell'incubatore di **Genova** con la fruizione di una **scrivania in uno spazio condiviso** per l'insediamento della propria iniziativa.
 
 ---
 
-**Luogo e data:** Genova, **[DATA DI PRESENTAZIONE]**
+**Luogo e data:** Genova, 19 giugno 2026
 
 **Timbro e firma:**
 
