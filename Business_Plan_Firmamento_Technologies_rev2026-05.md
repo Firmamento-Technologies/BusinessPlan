@@ -1,6 +1,6 @@
 # Business Plan: Firmamento Technologies Società Cooperativa
 
-*Società Cooperativa a mutualità prevalente · Startup Innovativa a vocazione sociale · Genova · Maggio 2026*
+*Società Cooperativa a mutualità prevalente · Startup Innovativa a vocazione sociale · Genova · Giugno 2026*
 
 ---
 
@@ -78,6 +78,21 @@ Di questo stesso ecosistema fa parte **DOPE Hubs A.P.S.**, associazione che riun
 
 Il modello economico è semplice e leggibile: **le commesse e gli abbonamenti generano ricavi e competenze; una quota degli utili alimenta un fondo dedicato, il *Fondo F.A.S. (Fondo per l'Avvio delle Startup)*, che può finanziare la nascita di nuove società (NewCo) promosse dai soci.** Ogni commessa serve due scopi: cassa nel breve e costruzione di asset proprietari (competenze, IP, relazioni) nel medio-lungo periodo. Il Fondo F.A.S. è già istituito e disciplinato da apposito regolamento interno (vedi *Governance, regolamenti interni e Fondo F.A.S.*).
 
+##### I due livelli del modello: operatività corrente e traiettoria evolutiva
+
+Per leggibilità strategica e gestionale è utile distinguere nettamente due livelli, che convivono ma hanno logiche, orizzonti e rischi diversi.
+
+| | **Livello 1: Operatività corrente** | **Livello 2: Traiettoria evolutiva** |
+|---|---|---|
+| Cosa | Servizi deep-tech (AI, CFD, Stampa 3D) e prodotto SaaS Fibonacci | Trasformazione di progetti maturi in NewCo autonome (SRL/SpA) |
+| Funzione | Genera ricavi, cassa e competenze **oggi** | Genera valore patrimoniale e scalabilità **nel tempo** |
+| Orizzonte | Breve termine (12-24 mesi) | Medio-lungo (24-48+ mesi) |
+| Strumento | Commesse + abbonamenti | Fondo F.A.S. + criteri di trasformazione (infra) |
+| Rischio | Basso/medio, già validato | Crescente, gestito per gate |
+| Riflesso economico-finanziario | Conto economico triennale (sez. D) | Rappresentazione **qualitativa** (sez. D.12), per maturità ancora bassa |
+
+Le proiezioni economiche della sezione D quantificano **solo il Livello 1** (attività su cui esiste evidenza). Il Livello 2 è rappresentato come **scenario logico-qualitativo** (sez. D.12) e governato da criteri oggettivi di trasformazione (sez. *Governance*): questa separazione evita di "gonfiare" i numeri con iniziative non ancora mature, mantenendo però esplicito il potenziale di crescita.
+
 Alla data di redazione Firmamento opera su tre verticali di servizio attivi (**Stampa 3D**, **Automatizzazione AI e Gestione Dati**, **Simulazione CFD con OpenFOAM**), un prodotto software scalabile già sul mercato (**Fibonacci**, suite di cartella clinica per la sanità) e un progetto di Ricerca e Sviluppo, **H.A.L.E.** (piattaforma stratosferica, finanziata con € 50.000 a fondo perduto da Coopfond).
 
 La cooperativa è iscritta come Startup Innovativa ai sensi dell'art. 25 D.L. 179/2012. Ad oggi non risulta alcuna altra cooperativa deep-tech in Italia (Fonte: ricerca su registri MIMIT e Legacoop nazionale, 2025). Firmamento occupa una categoria di fatto vuota: una cooperativa che trasforma ricercatori in imprenditori e fa nascere prodotti deep-tech. Questo posizionamento è deliberato e rappresenta una barriera all'imitazione.
@@ -130,6 +145,18 @@ Il *Regolamento Gestionale del Fondo F.A.S. (Fondo per l'Avvio delle Startup)*, 
 - **Tutele nelle NewCo**: forchette partecipative (quota min/max della coop), **golden share** e **mission lock**, **vesting** per i soci promotori (cliff 6–12 mesi, *bad/good leaver*), lock-up, clawback e anti-dilution; licenze IP coop↔NewCo con IP-lock; *service agreement* per i servizi condivisi a condizioni *arm's length*.
 
 In altre parole, **la "rete di progetti" diventa una struttura imprenditoriale che seleziona, decide, investe e detiene equity**: esattamente ciò che mancava. Il Fondo F.A.S. è anche il **meccanismo già pronto per l'evoluzione "cooperativa + SRL"**: a maturità, un prodotto può essere scorporato in una NewCo dedicata partecipata dalla cooperativa.
+
+**Criteri oggettivi di trasformazione progetto → NewCo.** Per evitare scelte discrezionali, l'evoluzione di un'iniziativa in società autonoma segue un percorso a **gate** con soglie minime misurabili. Un progetto avanza solo se supera, in sequenza, tutti i cancelli:
+
+| Gate | Domanda | KPI / soglia minima orientativa |
+|---|---|---|
+| **G1: Validazione tecnica** | La tecnologia funziona? | Prototipo/MVP funzionante; TRL ≥ 6 |
+| **G2: Validazione di mercato** | Esiste domanda reale? | Evidenze di interesse documentate (LOI, trial attivi, pipeline); per il SaaS: ricavi ricorrenti in crescita |
+| **G3: Sostenibilità economica** | Regge un conto economico autonomo? | Margine di contribuzione positivo; visibilità di break-even ≤ 24-36 mesi |
+| **G4: Massa critica e capitale** | Serve (e si attrae) capitale dedicato? | Fabbisogno che eccede la capacità della cooperativa; interesse di investitori/partner |
+| **G5: Delibera** | Si procede allo scorporo? | Decisione del CdA su istruttoria degli apparati esecutivi; definizione quota coop, governance, mission lock |
+
+Finché un progetto non supera G3, **resta all'interno della cooperativa** (Livello 1). Lo scorporo in NewCo (Livello 2) è attivato solo a valle di G4-G5. Questo processo strutturato rende la traiettoria evolutiva prevedibile e verificabile, e si applica tanto a Fibonacci quanto ai progetti innovativi in sviluppo.
 
 > **Scorporo di Fibonacci in SRL: decisione ancora aperta.** L'architettura per farlo esiste già (Fondo F.A.S.), ma **non è ancora stato deciso** se e quando Fibonacci verrà trasferita in una società dedicata: la scelta sarà valutata in funzione di traction, fabbisogno di capitale e attrattività per gli investitori. Allo stato, Fibonacci resta un prodotto interno alla cooperativa.
 
@@ -286,6 +313,24 @@ ARPA prudenziale (mix orientato a Solo Pro/Studio, sconto Fondatori nel primo pe
 
 Valori *target* sulla coorte Fondatori, da validare sul campo. Il churn basso tipico dell'EMR (il medico non cambia cartella clinica con leggerezza) e l'alto margine lordo del SaaS sono i due driver che rendono il modello scalabile e cumulativo: ogni nuovo studio acquisito resta e si somma ai precedenti.
 
+**Stato di validazione e metriche di crescita (trasparenza sul livello di maturità).** Allo stato attuale la validazione commerciale di Fibonacci è in fase iniziale e i numeri sopra sono **ipotesi da confermare**, non risultati consuntivati. È corretto distinguere ciò che è già reale da ciò che è ancora obiettivo:
+
+- **Già reale:** modulo Medicina Estetica **live e in produzione**; demo pubblica accessibile senza registrazione; 5 specialità in **co-design** con cliniche partner; programma Fondatori avviato; infrastruttura, compliance (GDPR, eIDAS, FHIR R4) e pipeline tecnica operative.
+- **Ancora da validare:** clienti paganti, tassi di conversione, churn reale, ARPA effettiva.
+
+Per rendere la crescita **misurabile e verificabile**, la cooperativa monitorerà un cruscotto di KPI con cadenza mensile, che fungerà anche da evidenza per i gate di trasformazione (vedi *Criteri oggettivi*):
+
+| KPI | Cosa misura | Soglia di salute |
+|---|---|---|
+| Trial attivati / mese | Interesse di mercato | trend in crescita |
+| Conversione trial → pagante | Product-market fit | ≥ 20% |
+| Studi paganti attivi · MRR/ARR | Traction ricorrente | crescita mensile costante |
+| Churn logo annuo | Retention | ≤ 12% |
+| CAC e payback | Efficienza acquisizione | payback < 12 mesi |
+| NPS clienti | Soddisfazione | ≥ 40 |
+
+**Impatto di compliance e normativa su tempi e costi.** Operare nel settore sanitario comporta requisiti che incidono su roadmap e costi e che sono già internalizzati nel modello: conformità **GDPR** (ruolo di Responsabile ex art. 28, DPA, dati in UE), firma **eIDAS**, conservazione a norma, e il presidio del confine **non-dispositivo-medico (MDR)** sulle funzioni AI. Questi adempimenti allungano i cicli di rilascio e richiedono manutenzione continua: per questo il conto economico include voci ricorrenti di **cloud/compliance** (B.2) e di **sviluppo e manutenzione del SaaS** (vedi C.1 e D.9), e lo scenario conservativo (D.12) considera esplicitamente ritardi dovuti alla compliance.
+
 ### B.3 Contesto competitivo
 
 #### Dimensioni del mercato di riferimento
@@ -342,6 +387,19 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 
 **Distribuzione.** Vendita diretta dei soci (relazioni di medio-lungo periodo), demo self-service per Fibonacci, canale partner/rivenditori e network Legacoop Liguria.
 
+**Priorità commerciali e sequenza di go-to-market.** L'accesso al mercato è deliberatamente **sequenziale**, non simultaneo su tutte le linee, per concentrare risorse dove il ritorno è più rapido:
+
+| Fase | Priorità | Linee | Modalità di accesso | Obiettivo |
+|---|---|---|---|---|
+| **Ora → 12 mesi** | Cassa rapida + primo ricavo ricorrente | Servizi AI/CFD/3D + Fibonacci Estetica | Vendita diretta soci, rete Legacoop, demo self-service, programma Fondatori | Prime commesse e primi studi paganti |
+| **12 → 24 mesi** | Scalare il ricorrente | Fibonacci (nuove specialità) | Canale partner/rivenditori, content marketing verticale, referral | Crescita MRR/ARR, riduzione CAC |
+| **24+ mesi** | Aprire mercati nuovi | NewCo da progetti maturi, H.A.L.E. (B2G) | Bandi pubblici, partnership istituzionali, eventuale equity dedicata | Scalabilità e nuovi segmenti |
+
+- **Modalità di ingresso per linea.** *Servizi*: vendita relazionale diretta sul network dei soci e di Legacoop (ciclo breve, cassa immediata). *Fibonacci*: motion self-service (demo → trial → conversione) + canale partner per volume. *H.A.L.E. e NewCo*: B2G e bandi, ciclo lungo, attivati solo dopo i gate.
+- **Percorso primi clienti/commesse.** Partenza dal network esistente (soci, Legacoop Liguria, cooperative aderenti) per le prime referenze; queste alimentano casi d'uso e testimonianze che abilitano la vendita a freddo e il canale partner.
+- **Networking come leva commerciale strutturata.** Non è un'attività occasionale ma un canale: ecosistema **Legacoop/Coopfond**, **Università di Genova**, **DOPE Hubs A.P.S.** (oltre 170 studenti/ricercatori STEM), eventi di settore e copertura stampa già acquisita. Da questo bacino emergono sia talenti sia opportunità commerciali.
+- **Inserimento delle iniziative imprenditoriali (NewCo) nel percorso commerciale.** Le NewCo non competono con la cooperativa: ne ereditano referenze, IP e relazioni e si attivano commercialmente **solo dopo** il superamento dei gate G3-G4, tipicamente dal secondo-terzo anno, su mercati/segmenti dedicati.
+
 **Partnership verificate:** Legacoop Liguria (istituzionale), Coopfond (€ 50.000 per H.A.L.E.), Università di Genova (processo di spin-off in corso), DOPE Hubs A.P.S. (parte dell'ecosistema: oltre 170 studenti e giovani ricercatori STEM, formazione alla cultura imprenditoriale).
 
 ---
@@ -357,6 +415,17 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | Sede operativa | Via Brigata Liguria 105R, Genova |
 
 **Struttura a hub guidata dalle persone.** La struttura segue i tre livelli di governance descritti in A.1 (strategia / apparati esecutivi / team di prodotto). Quando entra un nuovo talento può nascere o espandersi un hub; le funzioni trasversali (amministrazione, compliance, relazioni esterne, marketing, infrastruttura) sono **centralizzate** nella piattaforma cooperativa, così da alleggerire i team di prodotto. Il *Regolamento degli Apparati Esecutivi* fornisce il quadro per inserire, anche con figure esterne non socie, i ruoli trasversali oggi mancanti e prioritari: responsabile commerciale/marketing, **product manager di Fibonacci** e responsabile amministrativo-finanziario (CFO).
+
+**Funzioni della fase di scaling (da strutturare).** La crescita del SaaS richiede funzioni oggi presidiate in modo informale dai soci e da rafforzare progressivamente, con priorità e tempi espliciti:
+
+| Funzione | Stato attuale | Quando rafforzarla | Riflesso a CE |
+|---|---|---|---|
+| Sales / Business Development | Presidiata dai soci (founder-led) | Anno 1-2 (prima figura dedicata) | Marketing/personale (B.3/B.4) |
+| Customer Success / supporto clienti | Founder-led | Anno 2 (al crescere degli studi) | Costo del personale |
+| Compliance e aggiornamento normativo | Internalizzata (GDPR/eIDAS) | Continuativa | Servizi/cloud (B.2) |
+| Sviluppo e manutenzione continua SaaS | Team tecnico soci | Continuativa | Sviluppo prodotto (D.10) + capitalizzazione (D.11) |
+
+**Ricerca e sviluppo: ruolo organizzativo.** La R&S non è un'attività accessoria ma una funzione strutturale della cooperativa. Vi sono dedicate risorse dei soci (in particolare sui progetti H.A.L.E. e sullo sviluppo del software proprietario Fibonacci) e la produzione di **prototipi/MVP** è parte integrante del metodo: ogni iniziativa attraversa una fase sperimentale prima di diventare prodotto o NewCo (vedi gate G1). Il riflesso economico di questa attività è reso esplicito nelle sezioni D (costi R&D in B.6, capitalizzazione del software in D.11, quota di investimenti dedicata all'innovazione).
 
 ### C.2 Tecnologia e fasi del ciclo produttivo
 
@@ -386,6 +455,19 @@ Il differenziatore non è un singolo servizio, ma il **modello**: una cooperativ
 | | **TOTALE INVESTIMENTI** | **22.000** |
 
 > L'infrastruttura cloud di Fibonacci (hosting UE, API AI, CDN) è trattata come **costo operativo ricorrente** (voce B.2 del conto economico), non come investimento, coerentemente con la natura SaaS del prodotto.
+
+**Fabbisogni di investimento della fase di crescita (oltre l'avvio).** Gli € 22.000 sopra coprono l'avvio. La traiettoria di scaling richiederà, in modo progressivo e finanziato dal flusso di cassa e da finanza agevolata, ulteriori investimenti qui esplicitati a livello indicativo:
+
+| Ambito di investimento | Finalità | Orizzonte |
+|---|---|---|
+| Infrastrutture tecnologiche e digitali | Capacità cloud/AI per più studi e specialità | Anno 2-3 |
+| Industrializzazione e scalabilità del SaaS | Hardening, automazione onboarding, multi-tenant | Anno 2-3 |
+| Rafforzamento R&S | Prototipi, nuovi moduli, progetti innovativi | Continuativo |
+| Crescita del team e competenze specialistiche | Sales/BD, customer success, product, CFO | Anno 1-3 |
+| Funzioni commerciali e di supporto | Strumenti CRM, marketing, assistenza | Anno 1-2 |
+| Strumenti organizzativi per la scalabilità | Processi, sistemi gestionali, compliance | Continuativo |
+
+Questi fabbisogni sono coperti nel piano dal **rafforzamento patrimoniale progressivo** (D.14) e dalla finanza agevolata, non da debito bancario.
 
 ---
 
@@ -583,6 +665,55 @@ I costi di sviluppo del software Fibonacci, sostenuti internamente, presentano i
 
 > L'effetto è una rappresentazione patrimoniale più fedele (l'IP sviluppato diventa attivo) e una migliore correlazione costi-ricavi. Per prudenza e comparabilità, i prospetti D.2 e D.8 sono presentati **al lordo di tale capitalizzazione**: la sua applicazione incrementerebbe sia le immobilizzazioni immateriali sia il risultato d'esercizio dell'importo capitalizzato (voce A4). L'importo definitivo sarà determinato in sede di bilancio con il dettaglio analitico delle ore/risorse dedicate allo sviluppo.
 
+### D.12 Modello evolutivo del valore (rappresentazione qualitativa)
+
+Le proiezioni di D.2-D.11 quantificano il **Livello 1** (operatività corrente). Il **Livello 2** (trasformazione di progetti in NewCo autonome) ha oggi una maturità troppo bassa per stime numeriche puntuali: se ne fornisce quindi, come suggerito in sede istruttoria, una **rappresentazione qualitativa** che descrive come il valore evolve nel tempo.
+
+| Fase | Motore di valore | Struttura ricavi | Struttura costi | Effetto sul modello |
+|---|---|---|---|---|
+| **Fase 1: Servizi** (oggi) | Commesse AI/CFD/3D | Ricavi a progetto, ciclo breve | Prevalentemente variabili (lavoro soci legato all'incasso) | Cassa e competenze; finanzia il resto |
+| **Fase 2: Prodotto SaaS** (in corso) | Abbonamenti Fibonacci | Ricavi **ricorrenti** ad alto margine | Costi di sviluppo/compliance + acquisizione (CAC) | Marginalità crescente, valore cumulativo |
+| **Fase 3: NewCo scalabili** (futuro) | Spin-off di progetti maturi via Fondo F.A.S. | Equity e dividendi, ricavi della NewCo | Capitale dedicato (anche esterno), governance autonoma | Valore patrimoniale, scalabilità, attrazione investitori |
+
+**Dinamica attesa, senza quantificazione:** nel tempo il peso dei ricavi **ricorrenti e patrimoniali** cresce rispetto ai ricavi a progetto; la struttura dei costi si sposta da prevalentemente variabile (lavoro su commessa) verso una quota maggiore di costi di prodotto e di struttura (sviluppo, customer success, compliance); il rischio si redistribuisce su più iniziative. Le eventuali NewCo **non** sono incluse nei numeri di D.2 finché non superano i gate (G3-G5): entreranno nelle proiezioni come scenario solo a validazione avvenuta. Questa impostazione tiene insieme prudenza contabile e leggibilità del potenziale di crescita.
+
+### D.13 Scenari alternativi (analisi di sensibilità)
+
+Le proiezioni di D.2 rappresentano lo **scenario base**. Per misurare la resilienza del modello si introduce uno **scenario conservativo** che combina adozione di mercato più lenta, ritardi di commercializzazione e compliance del SaaS, acquisizione clienti più lunga e ricavi iniziali inferiori.
+
+| Indicatore | Scenario base | Scenario conservativo |
+|---|---|---|
+| Ricavi mercato Anno 1 | € 85.000 | ~€ 66.000 (−22%) |
+| di cui Fibonacci SaaS Anno 1 | € 15.000 | ~€ 8.000 |
+| Ricavi mercato Anno a regime | € 455.000 | ~€ 300.000 (−34%) |
+| Break-even | Anno 2 | slittamento all'Anno 3 |
+| Utile netto Anno 1 | ~€ 6.800 | intorno al pareggio |
+| Cassa di fine Anno 1 | ~€ 45.000 | positiva (~€ 30-35.000) |
+
+**Perché il modello regge anche nello scenario conservativo:**
+
+- **Costo del lavoro in gran parte variabile**: i compensi dei soci sono in quota rilevante legati all'incasso delle commesse (premi/ristorni), quindi **scendono automaticamente** se i ricavi calano, proteggendo la cassa.
+- **Nessun debito bancario**: assenza di oneri finanziari e di rate da onorare; nessun rischio tassi.
+- **Cuscinetto del contributo**: il contributo Coopfond a fondo perduto (€ 50.000) è già incassato e copre la fase di avvio anche con ricavi inferiori.
+- **Costi di licenza azzerati** (open-source) e struttura snella cooperativa: break-even strutturalmente basso.
+- **Leva di flessibilità**: marketing e nuove assunzioni sono modulabili e vengono attivati solo a fronte di traction.
+
+In sintesi, un ritardo di adozione sposta in avanti il break-even ma **non compromette la continuità**: il modello assorbe lo shock riducendo i costi variabili e attingendo alla riserva di liquidità, senza ricorso a debito.
+
+### D.14 Piano progressivo di rafforzamento patrimoniale
+
+Il capitale sociale attuale (€ 225) è coerente con la fase di avvio di una cooperativa, ma è oggettivamente contenuto rispetto all'ambizione industriale: dal punto di vista di un investitore il commitment iniziale può apparire non ancora proporzionato. Per questo si esplicita un **percorso progressivo** di rafforzamento patrimoniale, scandito per fasi e coerente con la natura cooperativa:
+
+| Fase | Leva di rafforzamento | Strumento | Effetto |
+|---|---|---|---|
+| 1 (in corso) | Autofinanziamento | Utili a riserve indivisibili + Fondo F.A.S. | Patrimonializzazione organica |
+| 2 | Capitalizzazione del vantaggio mutualistico | Ristorni destinati ad aumento gratuito di capitale (Reg. Ristorni) | Capitale sociale crescente senza esborso esterno |
+| 3 | Apertura ordinata a capitale esterno | **Soci finanziatori/sovventori** (art. 2526 c.c.), entro 1/3 dei voti | Mezzi propri aggiuntivi senza snaturare la governance |
+| 4 | Sistema cooperativo | Coopfond / Cooperazione Finanza Impresa, strumenti Legacoop; prestito sociale per il solo circolante | Capitale e liquidità agevolati |
+| 5 | Veicolo dedicato | Eventuale **NewCo (SRL)** per Fibonacci aperta a investitori (VC/business angel) | Strumento idoneo a round di investimento, senza intaccare la coop |
+
+Il rafforzamento è **legato alla riduzione del rischio**: man mano che traction e validazione crescono (gate G2-G4), aumentano sia la capacità di patrimonializzazione interna sia l'attrattività verso capitale esterno. Questo affronta in modo esplicito l'osservazione sulla proporzionalità del commitment finanziario.
+
 ---
 
 ## RASSEGNA STAMPA E RICONOSCIMENTI
@@ -633,4 +764,4 @@ Il risultato è un ciclo virtuoso: **persone → contesto → competenze → pro
 
 ---
 
-*Documento di revisione redatto il 26/05/2026, Firmamento Technologies Società Cooperativa · Via Brigata Liguria 105R, Genova (GE) · P.IVA/C.F. 03038500991 · Startup Innovativa, Registro MIMIT.*
+*Documento redatto in data 18/06/2026, Firmamento Technologies Società Cooperativa · Via Brigata Liguria 105R, Genova (GE) · P.IVA/C.F. 03038500991 · Startup Innovativa, Registro MIMIT.*
